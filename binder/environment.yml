@@ -8,3 +8,5 @@ dependencies:
   - pandas
   - bokeh
   - rise
+  - jupyter_nbextensions_configurator
+  - jupyter_contrib_nbextensions
