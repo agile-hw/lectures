@@ -1,5 +1,5 @@
 # lectures
-Lectures for the Agile Hardware Design course in Jupyter Notebooks.
+Lectures for the Agile Hardware Design course in Jupyter Notebooks. Binder link available here: https://mybinder.org/v2/gh/agile-hw/lectures/HEAD
 
 `resource/chisel_deps.sc` and `binder` configs are borrowed from the Chisel bootcamp: https://github.com/freechipsproject/chisel-bootcamp
 
