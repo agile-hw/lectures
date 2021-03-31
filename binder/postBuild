@@ -15,4 +15,5 @@ chmod +x coursier
     -o almond
 ./almond --install
 
-
+# Turn on splitcell
+jupyter nbextension enable splitcell/splitcell
