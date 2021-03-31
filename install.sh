@@ -2,6 +2,10 @@ python3 -m pip install virtualenv
 python3 -m virtualenv chisel_nb_env
 source chisel_nb_env/bin/activate
 pip3 install jupyterlab
+pip3 install jupyter_contrib_nbextensions
+pip3 install jupyter_nbextensions_configurator
+pip3 install RISE
+jupyter nbextension enable splitcell/splitcell
 curl -L -o coursier https://git.io/coursier-cli && chmod +x coursier
 SCALA_VERSION=2.12.10 ALMOND_VERSION=0.9.1
 ./coursier bootstrap -r jitpack \
@@ -13,4 +17,4 @@ SCALA_VERSION=2.12.10 ALMOND_VERSION=0.9.1
 rm almond
 rm coursier
 
-echo 'To enter virtualenv type: source chisel_nb_env/bin/activate'
+echo '\n\n\nTo enter virtualenv type: source chisel_nb_env/bin/activate'
