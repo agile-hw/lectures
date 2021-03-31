@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="398.5 1018 453 393" width="453" height="393">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#284491">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-03-29 18:17:33 +0000</metadata>
+  <g id="flows" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+    <title>flows</title>
+    <g id="flows_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_24">
+        <path d="M 410 1019.5 L 540 1019.5 C 545.52285 1019.5 550 1023.9772 550 1029.5 L 550 1062 C 550 1067.5228 545.52285 1072 540 1072 L 410 1072 C 404.47715 1072 400 1067.5228 400 1062 L 400 1029.5 C 400 1023.9772 404.47715 1019.5 410 1019.5 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(405 1036.25)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="41.101562" y="15">Design</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 710 1357 L 840 1357 C 845.5228 1357 850 1361.4772 850 1367 L 850 1399.5 C 850 1405.0228 845.5228 1409.5 840 1409.5 L 710 1409.5 C 704.47715 1409.5 700 1405.0228 700 1399.5 L 700 1367 C 700 1361.4772 704.47715 1357 710 1357 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(705 1373.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="12.203125" y="15">Verification</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 530 1154.5 L 660 1154.5 C 665.52285 1154.5 670 1158.9772 670 1164.5 L 670 1197 C 670 1202.5228 665.52285 1207 660 1207 L 530 1207 C 524.47715 1207 520 1202.5228 520 1197 L 520 1164.5 C 520 1158.9772 524.47715 1154.5 530 1154.5 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(525 1171.25)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="2.5703125" y="15">Implementation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 470 1087 L 600 1087 C 605.52285 1087 610 1091.4772 610 1097 L 610 1129.5 C 610 1135.0228 605.52285 1139.5 600 1139.5 L 470 1139.5 C 464.47715 1139.5 460 1135.0228 460 1129.5 L 460 1097 C 460 1091.4772 464.47715 1087 470 1087 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(465 1103.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="7.386719" y="15">Specification</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 590 1222 L 720 1222 C 725.52285 1222 730 1226.4772 730 1232 L 730 1264.5 C 730 1270.0228 725.52285 1274.5 720 1274.5 L 590 1274.5 C 584.47715 1274.5 580 1270.0228 580 1264.5 L 580 1232 C 580 1226.4772 584.47715 1222 590 1222 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(585 1238.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="17.019531" y="15">Integration</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <path d="M 650 1289.5 L 780 1289.5 C 785.52285 1289.5 790 1293.9772 790 1299.5 L 790 1332 C 790 1337.5228 785.52285 1342 780 1342 L 650 1342 C 644.47715 1342 640 1337.5228 640 1332 L 640 1299.5 C 640 1293.9772 644.47715 1289.5 650 1289.5 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(645 1306.25)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="12.203125" y="15">Optimization</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <line x1="499.66667" y1="1073.5" x2="499.76995" y2="1073.6162" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_35">
+        <line x1="559.6667" y1="1141" x2="559.76995" y2="1141.1162" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_36">
+        <line x1="619.6667" y1="1208.5" x2="619.76995" y2="1208.6162" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_37">
+        <line x1="679.6667" y1="1276" x2="679.76995" y2="1276.1162" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_38">
+        <line x1="739.6667" y1="1343.5" x2="739.76995" y2="1343.6162" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
