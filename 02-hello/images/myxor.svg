@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="996.898 1029 264.10205 188" width="264.10205" height="188">
+  <defs>
+    <font-face font-family="Menlo" font-size="20" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <path d="M 5.866667 0 L 0 -2.2 L 0 2.2 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-03-31 19:55:28 +0000</metadata>
+  <g id="MyXOR" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+    <title>MyXOR</title>
+    <g id="MyXOR_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_8">
+        <rect x="1060.3633" y="1063" width="199.63672" height="153" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_7">
+          <path d="M 1137.0503 1156.3003 L 1152.0755 1156.3003 C 1189.6385 1153.2953 1193.3947 1144.2802 1212.1762 1126.25 C 1193.3947 1108.2198 1189.6385 1099.2047 1152.0755 1096.1997 L 1137.0503 1096.1997 C 1140.8066 1108.2198 1142.6848 1109.7223 1144.563 1126.25 C 1142.6848 1142.7777 1140.8066 1144.2802 1137.0503 1156.3003" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_6">
+          <path d="M 1213.1556 1126.4522 C 1213.8994 1126.6058 1210.5426 1126.9467 1215.3873 1126.913 C 1220.232 1126.8793 1233.281 1126.471 1242.2266 1126.25" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_5">
+          <line x1="1107" y1="1111.2248" x2="1142.0612" y2="1111.4986" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_4">
+          <line x1="1107" y1="1141.2752" x2="1141.9194" y2="1141.5321" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_3">
+          <path d="M 1122.0252 1096.1997 C 1123.6945 1104.5461 1126.1989 1114.2862 1127.0336 1121.2416 C 1127.8682 1128.197 1127.8682 1132.0937 1127.0336 1137.9362 C 1126.1989 1143.7788 1123.6945 1150.1796 1122.0252 1156.3003" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(1059.5 1034)" fill="black">
+          <tspan font-family="Menlo" font-size="20" font-weight="700" fill="black" x="0" y="19">MyXOR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 1059.75 1084.5 L 1059.75 1084.5 C 1070.3815 1084.5 1079 1093.1185 1079 1103.75 L 1079 1180.25 C 1079 1190.8815 1070.3815 1199.5 1059.75 1199.5 L 1059.75 1199.5 C 1049.1185 1199.5 1040.5 1190.8815 1040.5 1180.25 L 1040.5 1103.75 C 1040.5 1093.1185 1049.1185 1084.5 1059.75 1084.5 Z" fill="white"/>
+        <path d="M 1059.75 1084.5 L 1059.75 1084.5 C 1070.3815 1084.5 1079 1093.1185 1079 1103.75 L 1079 1180.25 C 1079 1190.8815 1070.3815 1199.5 1059.75 1199.5 L 1059.75 1199.5 C 1049.1185 1199.5 1040.5 1190.8815 1040.5 1180.25 L 1040.5 1103.75 C 1040.5 1093.1185 1049.1185 1084.5 1059.75 1084.5 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_12">
+        <line x1="1017" y1="1111.2248" x2="1095.6" y2="1111.2248" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_13">
+        <line x1="1018" y1="1141.2752" x2="1095.6" y2="1141.2752" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 1242.2266 1126.25 L 1241.9114 1175.1521 L 1029.4 1175.1521" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(1027.8262 1068)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(1001.898 1101.1997)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(1001.898 1130.1997)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">b</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(1001.898 1164)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">c</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

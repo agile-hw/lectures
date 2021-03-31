@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="703.5 847 769.09375 314.75" width="769.09375" height="314.75">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-687.5" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#284491">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#284491">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-03-31 19:41:34 +0000</metadata>
+  <g id="flows" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+    <title>flows</title>
+    <g id="flows_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <path d="M 941 968.75 L 1081 968.75 C 1086.5228 968.75 1091 973.2272 1091 978.75 L 1091 1011.25 C 1091 1016.7728 1086.5228 1021.25 1081 1021.25 L 941 1021.25 C 935.4772 1021.25 931 1016.7728 931 1011.25 L 931 978.75 C 931 973.2272 935.4772 968.75 941 968.75 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(936 976)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="41.285156" y="15">Treadle</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="22.01953" y="34">(Simulator)</tspan>
+        </text>
+      </g>
+      <g id="Group_19">
+        <title>Note</title>
+        <g id="Graphic_21">
+          <path d="M 705 1001.5 L 793.4615 1001.5 L 805 1019.5 L 805 1091.5 L 705 1091.5 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(711 1027.5)" fill="black">
+            <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="10.285156" y="15">Circuit</tspan>
+            <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="15.101562" y="34">(.fir)</tspan>
+          </text>
+        </g>
+        <g id="Line_20">
+          <path d="M 793.4615 1001.5 L 793.4615 1019.5 L 805 1019.5 L 805 1019.5" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Graphic_22">
+        <path d="M 941 1089 L 1081 1089 C 1086.5228 1089 1091 1093.4772 1091 1099 L 1091 1131.5 C 1091 1137.0228 1086.5228 1141.5 1081 1141.5 L 941 1141.5 C 935.4772 1141.5 931 1137.0228 931 1131.5 L 931 1099 C 931 1093.4772 935.4772 1089 941 1089 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(936 1105.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="46.10156" y="15">FIRRTL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 941 848.5 L 1081 848.5 C 1086.5228 848.5 1091 852.9772 1091 858.5 L 1091 891 C 1091 896.5228 1086.5228 901 1081 901 L 941 901 C 935.4772 901 931 896.5228 931 891 L 931 858.5 C 931 852.9772 935.4772 848.5 941 848.5 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(936 855.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="12.386719" y="15">Test Stimulus</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="17.203125" y="34">(ChiselTest)</tspan>
+        </text>
+      </g>
+      <g id="Group_24">
+        <title>Note</title>
+        <g id="Graphic_26">
+          <path d="M 1177 1070.25 L 1265.4615 1070.25 L 1277 1088.25 L 1277 1160.25 L 1177 1160.25 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(1183 1096.25)" fill="black">
+            <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="10.285156" y="15">Verilog</tspan>
+            <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="24.734375" y="34">(.v)</tspan>
+          </text>
+        </g>
+        <g id="Line_25">
+          <path d="M 1265.4615 1070.25 L 1265.4615 1088.25 L 1277 1088.25 L 1277 1088.25" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_31">
+        <line x1="806.5" y1="1046.125" x2="908.9505" y2="1020.5124" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Group_32">
+        <title>Note</title>
+        <g id="Graphic_34">
+          <path d="M 1177 950 L 1314.1154 950 L 1332 968 L 1332 1040 L 1177 1040 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(1183 966.5)" fill="black">
+            <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="23.335938" y="15">Simulation </tspan>
+            <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="42.60156" y="34">Output</tspan>
+            <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="13.703125" y="53">(text, .vcd)</tspan>
+          </text>
+        </g>
+        <g id="Line_33">
+          <path d="M 1314.1154 950 L 1314.1154 968 L 1332 968 L 1332 968" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_35">
+        <line x1="1011" y1="945.35" x2="1011" y2="924.4" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_36">
+        <line x1="806.5" y1="1047.0006" x2="913.5263" y2="1082.7193" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_37">
+        <line x1="1092.5" y1="1115.25" x2="1153.6" y2="1115.25" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_38">
+        <line x1="1092.5" y1="995" x2="1153.6" y2="995" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_40">
+        <line x1="1278.5" y1="1115.25" x2="1326.1" y2="1115.25" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(1352 1094)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="0" y="15">Conventional</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="14.449219" y="34">CAD Tools</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
