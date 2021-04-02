@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1702 1702 207.33691 172.84412" width="207.33691" height="172.84412">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-04-02 23:45:31 +0000</metadata>
+  <g id="Canvas_8" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 8</title>
+    <g id="Canvas_8_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_10">
+        <path d="M 1859.4746 1857.1052 L 1828.1666 1873.8442 L 1828.1666 1762.5613 L 1859.4746 1779.3002 L 1859.4746 1857.1052 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_8">
+        <line x1="1720" y1="1790.382" x2="1815.2666" y2="1790.382" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 1790.8 1846 L 1799.4833 1846 L 1808.9833 1846.0117 L 1809.2666 1846.0234 L 1815.2666 1846.0234" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 1859.4746 1818.2027 L 1870.4746 1818.2027 L 1887.2 1818.2027" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 1770.8 1827 L 1770.8 1827 C 1781.2934 1827 1789.8 1835.5066 1789.8 1846 L 1789.8 1846 C 1789.8 1856.4934 1781.2934 1865 1770.8 1865 L 1770.8 1865 C 1760.3066 1865 1751.8 1856.4934 1751.8 1846 L 1751.8 1846 C 1751.8 1835.5066 1760.3066 1827 1770.8 1827 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(1756.8 1836.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="9.183594" y="15">-</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 1843.8 1703 L 1843.8 1703 C 1854.2934 1703 1862.8 1711.5066 1862.8 1722 L 1862.8 1722 C 1862.8 1732.4934 1854.2934 1741 1843.8 1741 L 1843.8 1741 C 1833.3066 1741 1824.8 1732.4934 1824.8 1722 L 1824.8 1722 C 1824.8 1711.5066 1833.3066 1703 1843.8 1703 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(1829.8 1712.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="9.183594" y="15">&lt;</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <path d="M 1843.8 1742 L 1843.8 1746.4654 L 1843.8103 1755.9654 L 1843.8206 1752.0307 L 1843.8206 1758.0307" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_31">
+        <line x1="1890.4557" y1="1722" x2="1876.7" y2="1722" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_32">
+        <path d="M 1770.4762 1790.382 L 1770.4762 1801.382 L 1770.6381 1808.691 L 1770.7133 1813.1003" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_33">
+        <path d="M 1770.4789 1801.5024 L 1770.4789 1790.5024 L 1770.9524 1746.6313 L 1770.9524 1722 L 1810.9 1722" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <text transform="translate(1707 1779.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <text transform="translate(1893.5 1711.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(1833.1666 1835.5)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(1833.1666 1779.5)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <circle cx="1770.8" cy="1790.7246" r="3.00000479370568" fill="black"/>
+        <circle cx="1770.8" cy="1790.7246" r="3.00000479370568" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

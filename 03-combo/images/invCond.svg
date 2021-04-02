@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1512.0266 1938.5246 246.83763 162.07543" width="246.83763" height="162.07543">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-04-02 23:52:54 +0000</metadata>
+  <g id="Canvas_8" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>contrast conditionals</title>
+    <g id="Canvas_8_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_40">
+        <line x1="1608" y1="1980" x2="1608" y2="2005.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(1603.0815 1957.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <path d="M 1608.5 2018 L 1608.5 2018 C 1618.9934 2018 1627.5 2026.5066 1627.5 2037 L 1627.5 2037 C 1627.5 2047.4934 1618.9934 2056 1608.5 2056 L 1608.5 2056 C 1598.0066 2056 1589.5 2047.4934 1589.5 2037 L 1589.5 2037 C 1589.5 2026.5066 1598.0066 2018 1608.5 2018 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(1594.5 2027.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="9.183594" y="15">-</tspan>
+        </text>
+      </g>
+      <g id="Line_42">
+        <line x1="1608" y1="2056" x2="1608" y2="2081.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_46">
+        <line x1="1747.9457" y1="1982.717" x2="1747.9457" y2="2081.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(1743.0273 1960.217)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <text transform="translate(1519.0933 1998.4664) rotate(-47)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">invert</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <text transform="translate(1546.0933 1990.5408) rotate(-47)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">true</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <text transform="translate(1683.5663 1995.8621) rotate(-47)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">false</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <text transform="translate(1662.0668 1993.145) rotate(-47)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">invert</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
