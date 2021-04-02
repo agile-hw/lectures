@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="1293.4002 1225.232 324.15014 495.89" width="324.15014" height="495.89">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <path d="M 5.866667 0 L 0 -2.2 L 0 2.2 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#284491">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#ffab32">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="-937.5" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-style="italic" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-BoldItalic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-04-02 19:42:32 +0000</metadata>
+  <g id="MyXOR_decomposed_1" fill="none" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1">
+    <title>MyXOR wire</title>
+    <g id="MyXOR_decomposed_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_38">
+        <path d="M 1439.75 1254.232 L 1594.25 1254.232 C 1599.7728 1254.232 1604.25 1258.7092 1604.25 1264.232 L 1604.25 1327.232 C 1604.25 1332.7549 1599.7728 1337.232 1594.25 1337.232 L 1439.75 1337.232 C 1434.2272 1337.232 1429.75 1332.7549 1429.75 1327.232 L 1429.75 1264.232 C 1429.75 1258.7092 1434.2272 1254.232 1439.75 1254.232 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 1366.5 1660 L 1385 1660 C 1390.5228 1660 1395 1664.4772 1395 1670 L 1395 1688 C 1395 1693.5228 1390.5228 1698 1385 1698 L 1366.5 1698 C 1360.9772 1698 1356.5 1693.5228 1356.5 1688 L 1356.5 1670 C 1356.5 1664.4772 1360.9772 1660 1366.5 1660 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Group_20">
+        <g id="Graphic_25">
+          <path d="M 1459.3324 1512.0503 L 1459.3324 1527.0755 C 1462.3375 1564.6385 1471.3526 1568.3947 1489.3828 1587.1762 C 1507.413 1568.3947 1516.4281 1564.6385 1519.4331 1527.0755 L 1519.4331 1512.0503 C 1507.413 1515.8066 1505.9105 1517.6848 1489.3828 1519.563 C 1472.8551 1517.6848 1471.3526 1515.8066 1459.3324 1512.0503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_24">
+          <path d="M 1489.1806 1588.1556 C 1489.027 1588.8994 1488.6861 1585.5426 1488.7198 1590.3873 C 1488.7535 1595.232 1489.1618 1608.281 1489.3828 1617.2266" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_23">
+          <line x1="1504.408" y1="1482" x2="1504.1342" y2="1517.0612" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_22">
+          <line x1="1474.3576" y1="1482" x2="1474.1007" y2="1516.9194" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_21">
+          <path d="M 1519.4331 1497.0252 C 1511.0866 1498.6945 1501.3466 1501.199 1494.3912 1502.0336 C 1487.4358 1502.8682 1483.539 1502.8682 1477.6965 1502.0336 C 1471.854 1501.199 1465.4532 1498.6945 1459.3324 1497.0252" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(1346.8516 1636)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">myWire</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <path d="M 1450.3828 1476.5 L 1526.3324 1476.5 C 1531.8553 1476.5 1536.3324 1480.9772 1536.3324 1486.5 L 1536.3324 1619.5 C 1536.3324 1625.0228 1531.8553 1629.5 1526.3324 1629.5 L 1450.3828 1629.5 C 1444.86 1629.5 1440.3828 1625.0228 1440.3828 1619.5 L 1440.3828 1486.5 C 1440.3828 1480.9772 1444.86 1476.5 1450.3828 1476.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 1451.8984 1287.982 L 1470.3984 1287.982 C 1475.9213 1287.982 1480.3984 1292.4592 1480.3984 1297.982 L 1480.3984 1315.982 C 1480.3984 1321.5049 1475.9213 1325.982 1470.3984 1325.982 L 1451.8984 1325.982 C 1446.3756 1325.982 1441.8984 1321.5049 1441.8984 1315.982 L 1441.8984 1297.982 C 1441.8984 1292.4592 1446.3756 1287.982 1451.8984 1287.982 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(1456.332 1263.982)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 1507.75 1287.982 L 1526.25 1287.982 C 1531.7728 1287.982 1536.25 1292.4592 1536.25 1297.982 L 1536.25 1315.982 C 1536.25 1321.5049 1531.7728 1325.982 1526.25 1325.982 L 1507.75 1325.982 C 1502.2272 1325.982 1497.75 1321.5049 1497.75 1315.982 L 1497.75 1297.982 C 1497.75 1292.4592 1502.2272 1287.982 1507.75 1287.982 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_34">
+        <text transform="translate(1512.1836 1263.982)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">b</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <path d="M 1563.6016 1287.982 L 1582.1016 1287.982 C 1587.6244 1287.982 1592.1016 1292.4592 1592.1016 1297.982 L 1592.1016 1315.982 C 1592.1016 1321.5049 1587.6244 1325.982 1582.1016 1325.982 L 1563.6016 1325.982 C 1558.0787 1325.982 1553.6016 1321.5049 1553.6016 1315.982 L 1553.6016 1297.982 C 1553.6016 1292.4592 1558.0787 1287.982 1563.6016 1287.982 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(1568.0352 1263.982)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">c</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(1434.75 1230.232)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">io</tspan>
+        </text>
+      </g>
+      <g id="Group_49">
+        <g id="Graphic_46">
+          <path d="M 1446.7752 1391.5 L 1461.2752 1391.5 C 1467.9026 1391.5 1473.2752 1396.8726 1473.2752 1403.5 L 1473.2752 1403.5 C 1473.2752 1410.1274 1467.9026 1415.5 1461.2752 1415.5 L 1446.7752 1415.5 C 1440.1478 1415.5 1434.7752 1410.1274 1434.7752 1403.5 L 1434.7752 1403.5 C 1434.7752 1396.8726 1440.1478 1391.5 1446.7752 1391.5 Z" fill="white"/>
+          <path d="M 1446.7752 1391.5 L 1461.2752 1391.5 C 1467.9026 1391.5 1473.2752 1396.8726 1473.2752 1403.5 L 1473.2752 1403.5 C 1473.2752 1410.1274 1467.9026 1415.5 1461.2752 1415.5 L 1446.7752 1415.5 C 1440.1478 1415.5 1434.7752 1410.1274 1434.7752 1403.5 L 1434.7752 1403.5 C 1434.7752 1396.8726 1440.1478 1391.5 1446.7752 1391.5 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_45">
+          <line x1="1453.5252" y1="1385.036" x2="1453.5252" y2="1396.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Line_44">
+          <line x1="1453.5252" y1="1415.5" x2="1453.5252" y2="1422.3758" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Graphic_48">
+          <path d="M 1439 1378.5 L 1469.0503 1378.5 C 1474.5732 1378.5 1479.0503 1382.9772 1479.0503 1388.5 L 1479.0503 1418.5 C 1479.0503 1424.0228 1474.5732 1428.5 1469.0503 1428.5 L 1439 1428.5 C 1433.4772 1428.5 1429 1424.0228 1429 1418.5 L 1429 1388.5 C 1429 1382.9772 1433.4772 1378.5 1439 1378.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_50">
+        <g id="Graphic_54">
+          <path d="M 1515.2752 1391.5 L 1529.7752 1391.5 C 1536.4026 1391.5 1541.7752 1396.8726 1541.7752 1403.5 L 1541.7752 1403.5 C 1541.7752 1410.1274 1536.4026 1415.5 1529.7752 1415.5 L 1515.2752 1415.5 C 1508.6478 1415.5 1503.2752 1410.1274 1503.2752 1403.5 L 1503.2752 1403.5 C 1503.2752 1396.8726 1508.6478 1391.5 1515.2752 1391.5 Z" fill="white"/>
+          <path d="M 1515.2752 1391.5 L 1529.7752 1391.5 C 1536.4026 1391.5 1541.7752 1396.8726 1541.7752 1403.5 L 1541.7752 1403.5 C 1541.7752 1410.1274 1536.4026 1415.5 1529.7752 1415.5 L 1515.2752 1415.5 C 1508.6478 1415.5 1503.2752 1410.1274 1503.2752 1403.5 L 1503.2752 1403.5 C 1503.2752 1396.8726 1508.6478 1391.5 1515.2752 1391.5 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_53">
+          <line x1="1522.0252" y1="1385.036" x2="1522.0252" y2="1396.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Line_52">
+          <line x1="1522.0252" y1="1415.5" x2="1522.0252" y2="1422.3758" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Graphic_51">
+          <path d="M 1507.5 1378.5 L 1537.5503 1378.5 C 1543.0732 1378.5 1547.5503 1382.9772 1547.5503 1388.5 L 1547.5503 1418.5 C 1547.5503 1424.0228 1543.0732 1428.5 1537.5503 1428.5 L 1507.5 1428.5 C 1501.9772 1428.5 1497.5 1424.0228 1497.5 1418.5 L 1497.5 1388.5 C 1497.5 1382.9772 1501.9772 1378.5 1507.5 1378.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_60">
+        <g id="Graphic_56">
+          <path d="M 1576 1378.5 L 1606.0503 1378.5 C 1611.5732 1378.5 1616.0503 1382.9772 1616.0503 1388.5 L 1616.0503 1418.5 C 1616.0503 1424.0228 1611.5732 1428.5 1606.0503 1428.5 L 1576 1428.5 C 1570.4772 1428.5 1566 1424.0228 1566 1418.5 L 1566 1388.5 C 1566 1382.9772 1570.4772 1378.5 1576 1378.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Graphic_59">
+          <path d="M 1583.7752 1391.5 L 1598.2752 1391.5 C 1604.9026 1391.5 1610.2752 1396.8726 1610.2752 1403.5 L 1610.2752 1403.5 C 1610.2752 1410.1274 1604.9026 1415.5 1598.2752 1415.5 L 1583.7752 1415.5 C 1577.1478 1415.5 1571.7752 1410.1274 1571.7752 1403.5 L 1571.7752 1403.5 C 1571.7752 1396.8726 1577.1478 1391.5 1583.7752 1391.5 Z" fill="white"/>
+          <path d="M 1583.7752 1391.5 L 1598.2752 1391.5 C 1604.9026 1391.5 1610.2752 1396.8726 1610.2752 1403.5 L 1610.2752 1403.5 C 1610.2752 1410.1274 1604.9026 1415.5 1598.2752 1415.5 L 1583.7752 1415.5 C 1577.1478 1415.5 1571.7752 1410.1274 1571.7752 1403.5 L 1571.7752 1403.5 C 1571.7752 1396.8726 1577.1478 1391.5 1583.7752 1391.5 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_58">
+          <line x1="1590.5252" y1="1407.5" x2="1590.5252" y2="1396.436" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Line_57">
+          <line x1="1590.5252" y1="1415.5" x2="1590.5252" y2="1422.3758" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Line_61">
+        <line x1="1396.5" y1="1679" x2="1447.4324" y2="1679" marker-end="url(#FilledArrow_Marker_2)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_62">
+        <line x1="1459.6355" y1="1327.482" x2="1457.1512" y2="1361.1431" marker-end="url(#FilledArrow_Marker_2)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_63">
+        <line x1="1518.5837" y1="1327.482" x2="1521.3005" y2="1362.6472" marker-end="url(#FilledArrow_Marker_2)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_64">
+        <line x1="1578.0609" y1="1327.482" x2="1587.1092" y2="1363.0898" marker-end="url(#FilledArrow_Marker_2)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_65">
+        <line x1="1460.7475" y1="1430" x2="1469.0278" y2="1462.6414" marker-end="url(#FilledArrow_Marker_3)" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_66">
+        <line x1="1522.5252" y1="1428.5" x2="1509.3856" y2="1463.0814" marker-end="url(#FilledArrow_Marker_3)" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_67">
+        <path d="M 1488.3576 1704 C 1488.3576 1704 1523.1391 1728.5986 1553.6016 1687 C 1584.064 1645.4014 1585.2805 1630.401 1595.8828 1557.1667 C 1603.4866 1504.644 1597.6852 1461.2778 1593.7955 1440.9497" marker-end="url(#FilledArrow_Marker_3)" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_68">
+        <text transform="translate(1300.821 1338.4944) rotate(-37)" fill="#284491">
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="700" fill="#284491" x="2557954e-19" y="16">Scala References</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <text transform="translate(1318.7393 1425.9142) rotate(-37)" fill="#ffab32">
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="700" fill="#ffab32" x="0" y="16">Chisel Objects</tspan>
+        </text>
+      </g>
+      <g id="Group_70">
+        <g id="Graphic_74">
+          <path d="M 1481.1076 1667 L 1495.6076 1667 C 1502.235 1667 1507.6076 1672.3726 1507.6076 1679 L 1507.6076 1679 C 1507.6076 1685.6274 1502.235 1691 1495.6076 1691 L 1481.1076 1691 C 1474.4802 1691 1469.1076 1685.6274 1469.1076 1679 L 1469.1076 1679 C 1469.1076 1672.3726 1474.4802 1667 1481.1076 1667 Z" fill="white"/>
+          <path d="M 1481.1076 1667 L 1495.6076 1667 C 1502.235 1667 1507.6076 1672.3726 1507.6076 1679 L 1507.6076 1679 C 1507.6076 1685.6274 1502.235 1691 1495.6076 1691 L 1481.1076 1691 C 1474.4802 1691 1469.1076 1685.6274 1469.1076 1679 L 1469.1076 1679 C 1469.1076 1672.3726 1474.4802 1667 1481.1076 1667 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_73">
+          <line x1="1487.8576" y1="1660.536" x2="1487.8576" y2="1671.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Line_72">
+          <line x1="1487.8576" y1="1691" x2="1487.8576" y2="1697.8758" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+        </g>
+        <g id="Graphic_71">
+          <path d="M 1473.3324 1654 L 1503.3828 1654 C 1508.9056 1654 1513.3828 1658.4772 1513.3828 1664 L 1513.3828 1694 C 1513.3828 1699.5228 1508.9056 1704 1503.3828 1704 L 1473.3324 1704 C 1467.8096 1704 1463.3324 1699.5228 1463.3324 1694 L 1463.3324 1664 C 1463.3324 1658.4772 1467.8096 1654 1473.3324 1654 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_75">
+        <line x1="1488.6549" y1="1631" x2="1488.5224" y2="1641.251" marker-end="url(#FilledArrow_Marker_3)" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
