@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1718.1656 2025.7033 270.9985 252.9443" width="270.9985" height="252.9443">
+  <defs>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <path d="M 5.866667 0 L 0 -2.2 L 0 2.2 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.4\n2021-04-05 05:58:08 +0000</metadata>
+  <g id="Raccoon" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Raccoon</title>
+    <g id="Raccoon_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_21">
+        <circle cx="1934.6107" cy="2082.2877" r="36.0000575244682" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(1902.1 2071.7877)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#666" x="0" y="17">wander</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <circle cx="1778.5564" cy="2082.2877" r="36.0000575244683" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(1756.8825 2071.7877)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#666" x="0" y="17">hide</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <circle cx="1934.6107" cy="2241.8976" r="36.0000575244683" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(1905.8107 2220.8976)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#666" x="1.707714" y="17">rumm-</tspan>
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#666" x="12.544628" y="38">age</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <circle cx="1778.5564" cy="2241.8976" r="36.0000575244684" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(1762.301 2231.3976)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#666" x="0" y="17">eat</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <path d="M 1811.264 2065.5095 C 1822.9106 2061.468 1837.181 2058.2915 1853.2663 2058.2915 C 1866.5388 2058.2915 1879.1734 2060.454 1890.357 2063.481" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(1827.685 2040)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">!noise</tspan>
+        </text>
+      </g>
+      <g id="Line_22">
+        <line x1="1934.6107" y1="2119.0377" x2="1934.6107" y2="2193.7476" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_23">
+        <line x1="1897.8607" y1="2241.8976" x2="1826.7064" y2="2241.8976" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_24">
+        <line x1="1778.5564" y1="2205.1476" x2="1778.5564" y2="2130.4377" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_25">
+        <line x1="1908.9188" y1="2215.6204" x2="1812.218" y2="2116.7162" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_26">
+        <path d="M 1899.9232 2094.452 C 1887.405 2097.539 1872.2582 2100 1855.779 2100 C 1844.4228 2100 1833.8057 2098.8314 1824.2971 2097.0945" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_27">
+        <line x1="1804.2482" y1="2215.6204" x2="1900.949" y2="2116.7162" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Line_28">
+        <line x1="1723.1156" y1="2030.6533" x2="1744.4185" y2="2050.4936" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1.5"/>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(1832.5015 2081.5)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">noise</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(1886.4625 2164.0668) rotate(47)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">noise</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(1936 2148)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">trash</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(1837.318 2224.3165)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">food</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(1789.0668 2203.7917) rotate(-47)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">!food</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <text transform="translate(1728.836 2148)" fill="#284491">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#284491" x="0" y="15">noise</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
