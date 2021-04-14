@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="4392.5 4496.326 120.5 308.50003" width="120.5" height="308.50003">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="4375.2285 4965.5 334.79297 150" width="334.79297" height="150">
   <defs>
     <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
       <font-face-src>
@@ -28,64 +28,64 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-14 20:09:02 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-14 23:07:14 +0000</metadata>
   <g id="arbiter" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1">
     <title>arbiter</title>
     <g id="arbiter_Layer_1">
       <title>Layer 1</title>
-      <g id="Graphic_8">
-        <text transform="translate(4398.5 4640.6953) rotate(-90)" fill="#0044b4">
+      <g id="Graphic_29">
+        <text transform="translate(4403.0654 5001.5)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.in(0)</tspan>
         </text>
       </g>
-      <g id="Graphic_7">
-        <text transform="translate(4428 4640.6953) rotate(-90)" fill="#0044b4">
+      <g id="Graphic_28">
+        <text transform="translate(4403.0654 5031)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.in(1)</tspan>
         </text>
       </g>
-      <g id="Graphic_6">
-        <path d="M 4512 4713.451 L 4512 4713.451 C 4512 4724.566 4502.9897 4733.576 4491.875 4733.576 L 4414.125 4733.576 C 4403.0103 4733.576 4394 4724.566 4394 4713.451 L 4394 4713.451 C 4394 4702.3365 4403.0103 4693.326 4414.125 4693.326 L 4491.875 4693.326 C 4502.9897 4693.326 4512 4702.3365 4512 4713.451 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Graphic_27">
+        <path d="M 4574.375 5114.5 L 4574.375 5114.5 C 4563.26 5114.5 4554.25 5105.49 4554.25 5094.375 L 4554.25 5016.625 C 4554.25 5005.51 4563.26 4996.5 4574.375 4996.5 L 4574.375 4996.5 C 4585.49 4996.5 4594.5 5005.51 4594.5 5016.625 L 4594.5 5094.375 C 4594.5 5105.49 4585.49 5114.5 4574.375 5114.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_5">
-        <text transform="translate(4415.071 4702.951)" fill="black">
+      <g id="Graphic_26">
+        <text transform="translate(4536.446 4970.5)" fill="black">
           <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">Arbiter</tspan>
         </text>
       </g>
-      <g id="Line_4">
-        <line x1="4408.5" y1="4653.076" x2="4408.5" y2="4680.426" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Line_25">
+        <line x1="4514" y1="5013.5" x2="4541.35" y2="5013.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Line_3">
-        <line x1="4438" y1="4653.076" x2="4438" y2="4680.426" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Line_24">
+        <line x1="4514" y1="5043" x2="4541.35" y2="5043" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_2">
-        <text transform="translate(4423.989 4778.826)" fill="#0044b4">
+      <g id="Graphic_23">
+        <text transform="translate(4640 5045)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.out</tspan>
         </text>
       </g>
-      <g id="Line_9">
-        <line x1="4456" y1="4733.576" x2="4456" y2="4760.926" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Line_22">
+        <line x1="4594.5" y1="5055" x2="4622.1" y2="5055" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_10">
-        <text transform="translate(4486 4640.6953) rotate(-90)" fill="#0044b4">
+      <g id="Graphic_21">
+        <text transform="translate(4403.0654 5089)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.in(n-1)</tspan>
         </text>
       </g>
-      <g id="Line_11">
-        <line x1="4496" y1="4653.076" x2="4496" y2="4680.426" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Line_20">
+        <line x1="4514" y1="5101" x2="4541.35" y2="5101" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_13">
-        <circle cx="4457.25" cy="4669.511" r="3.00000479370565" fill="#999"/>
-        <circle cx="4457.25" cy="4669.511" r="3.00000479370565" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Graphic_19">
+        <circle cx="4531.125" cy="5062" r="3.00000479370553" fill="#999"/>
+        <circle cx="4531.125" cy="5062" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
-      <g id="Graphic_12">
-        <circle cx="4477.75" cy="4669.511" r="3.00000479370541" fill="#999"/>
-        <circle cx="4477.75" cy="4669.511" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Graphic_18">
+        <circle cx="4531.125" cy="5082.5" r="3.00000479370553" fill="#999"/>
+        <circle cx="4531.125" cy="5082.5" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
-      <g id="Line_15">
-        <line x1="4508.8" y1="4526.326" x2="4396.7" y2="4526.326" marker-end="url(#NegativeControls_Marker)" marker-start="url(#NegativeControls_Marker_2)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Line_17">
+        <line x1="4395.0654" y1="5111.3" x2="4395.0654" y2="5003.7" marker-end="url(#NegativeControls_Marker)" marker-start="url(#NegativeControls_Marker_2)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
-      <g id="Graphic_14">
-        <text transform="translate(4447.5815 4501.326)" fill="#5ec962">
+      <g id="Graphic_16">
+        <text transform="translate(4380.2285 5045)" fill="#5ec962">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#5ec962" x="0" y="17">n</tspan>
         </text>
       </g>

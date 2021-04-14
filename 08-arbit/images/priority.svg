@@ -33,7 +33,7 @@
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-14 20:18:33 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-14 23:03:44 +0000</metadata>
   <g id="priority" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1">
     <title>priority</title>
     <g id="priority_Layer_1">
@@ -207,6 +207,45 @@
       </g>
       <g id="Line_44">
         <line x1="4684.989" y1="4749.75" x2="4708.6723" y2="4749.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(4679 4724.75)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">[0]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <text transform="translate(4679 4658.5)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">[1]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <text transform="translate(4689.989 4522.7724)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#666" x="0" y="17">[n-1]</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="4716.5" y1="4771.029" x2="4728.5" y2="4783.029" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_48">
+        <text transform="translate(4733.5 4766.529)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">n</tspan>
+        </text>
+      </g>
+      <g id="Line_51">
+        <line x1="4716.337" y1="4707.971" x2="4728.337" y2="4719.971" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_50">
+        <text transform="translate(4732.3154 4703.471)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">n-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <circle cx="4614.8477" cy="4598.1016" r="3.00000479370517" fill="#999"/>
+        <circle cx="4614.8477" cy="4598.1016" r="3.00000479370517" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_54">
+        <circle cx="4614.8477" cy="4618.6016" r="3.00000479370517" fill="#999"/>
+        <circle cx="4614.8477" cy="4618.6016" r="3.00000479370517" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
     </g>
   </g>

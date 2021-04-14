@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="3698.826 4078 305.7246 173.53068" width="305.7246" height="173.53068">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="12" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="20" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="-2.4" x2="0" y2="2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="2.4" x2="0" y2="-2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-14 20:18:33 +0000</metadata>
+  <g id="decoder" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1">
+    <title>decoder</title>
+    <g id="decoder_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 3790.5 4138.7846 L 3826.919 4119 L 3826.919 4250.5307 L 3790.5 4230.746 L 3790.5 4138.7846 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_3">
+        <line x1="3734.5502" y1="4184.2653" x2="3777.6" y2="4184.2653" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_4">
+        <line x1="3827.5" y1="4137" x2="3860.5498" y2="4137" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_5">
+        <line x1="3827.5" y1="4167.5" x2="3860.5498" y2="4167.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_6">
+        <line x1="3827.5" y1="4234.5307" x2="3860.5498" y2="4234.5307" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="3848.475" cy="4211.7653" r="3.00000479370547" fill="#999"/>
+        <circle cx="3848.475" cy="4211.7653" r="3.00000479370547" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="3848.475" cy="4191.2653" r="3.00000479370541" fill="#999"/>
+        <circle cx="3848.475" cy="4191.2653" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(3878.4498 4224.5307)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">out(0)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(3874.8374 4127)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">out(2</tspan>
+          <tspan font-family="Menlo" font-size="12" font-weight="400" fill="#0044b4" y="11">n</tspan>
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" y="17">-1)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(3874.8374 4156.8026)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">out(2</tspan>
+          <tspan font-family="Menlo" font-size="12" font-weight="400" fill="#0044b4" y="11">n</tspan>
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" y="17">-2)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(3703.826 4174.2653)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">in</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="3750.5" y1="4178.7653" x2="3762.5" y2="4190.7653" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(3725 4083)" fill="black">
+          <tspan font-family="Menlo" font-size="20" font-weight="700" fill="black" x="0" y="19">One-Hot</tspan>
+          <tspan font-family="Menlo" font-size="20" font-weight="700" fill="black" x="0" y="43">Encoder</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(3751.0815 4188.7653)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">n</tspan>
+        </text>
+      </g>
+      <g id="Line_18">
+        <line x1="3976.4893" y1="4117.928" x2="3976.4893" y2="4247.3307" marker-end="url(#NegativeControls_Marker)" marker-start="url(#NegativeControls_Marker_2)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(3981.4893 4172.1294)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#5ec962" x="0" y="17">2</tspan>
+          <tspan font-family="Menlo" font-size="12" font-weight="400" fill="#5ec962" y="11">n</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
