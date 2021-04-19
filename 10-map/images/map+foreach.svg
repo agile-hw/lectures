@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="4597.5 5143.5 942.2342 253.5" width="942.2342" height="253.5">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="22" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#a5a5a5">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-19 19:55:08 +0000</metadata>
+  <g id="FP_operations" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
+    <title>FP operations</title>
+    <g id="FP_operations_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_104">
+        <path d="M 5318 5174.75 L 5533.234 5174.75 C 5535.9956 5174.75 5538.234 5176.9886 5538.234 5179.75 L 5538.234 5238.25 C 5538.234 5241.0114 5535.9956 5243.25 5533.234 5243.25 L 5318 5243.25 C 5315.2386 5243.25 5313 5241.0114 5313 5238.25 L 5313 5179.75 C 5313 5176.9886 5315.2386 5174.75 5318 5174.75 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_103">
+        <path d="M 4748.766 5327 L 4964 5327 C 4966.7614 5327 4969 5329.2386 4969 5332 L 4969 5390.5 C 4969 5393.2614 4966.7614 5395.5 4964 5395.5 L 4748.766 5395.5 C 4746.0044 5395.5 4743.766 5393.2614 4743.766 5390.5 L 4743.766 5332 C 4743.766 5329.2386 4746.0044 5327 4748.766 5327 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_59">
+        <path d="M 4748.766 5174.5 L 4964 5174.5 C 4966.7614 5174.5 4969 5176.7386 4969 5179.5 L 4969 5238 C 4969 5240.7614 4966.7614 5243 4964 5243 L 4748.766 5243 C 4746.0044 5243 4743.766 5240.7614 4743.766 5238 L 4743.766 5179.5 C 4743.766 5176.7386 4746.0044 5174.5 4748.766 5174.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_101">
+        <path d="M 4758 5184 L 4798 5184 C 4800.7614 5184 4803 5186.2386 4803 5189 L 4803 5229 C 4803 5231.7614 4800.7614 5234 4798 5234 L 4758 5234 C 4755.2386 5234 4753 5231.7614 4753 5229 L 4753 5189 C 4753 5186.2386 4755.2386 5184 4758 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_100">
+        <path d="M 4758 5336 L 4798 5336 C 4800.7614 5336 4803 5338.2386 4803 5341 L 4803 5381 C 4803 5383.7614 4800.7614 5386 4798 5386 L 4758 5386 C 4755.2386 5386 4753 5383.7614 4753 5381 L 4753 5341 C 4753 5338.2386 4755.2386 5336 4758 5336 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_99">
+        <path d="M 4778 5266 L 4778 5266 C 4788.4934 5266 4797 5274.5066 4797 5285 L 4797 5285 C 4797 5295.4934 4788.4934 5304 4778 5304 L 4778 5304 C 4767.5066 5304 4759 5295.4934 4759 5285 L 4759 5285 C 4759 5274.5066 4767.5066 5266 4778 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(4764 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Graphic_98">
+        <text transform="translate(4649.2554 5198.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">input</tspan>
+        </text>
+      </g>
+      <g id="Graphic_97">
+        <text transform="translate(4633 5274.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#4f8f00" x="0" y="17">function</tspan>
+        </text>
+      </g>
+      <g id="Graphic_96">
+        <text transform="translate(4643.837 5350.5)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#ffab32" x="0" y="17">output</tspan>
+        </text>
+      </g>
+      <g id="Line_95">
+        <line x1="4778" y1="5235.5" x2="4778" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_94">
+        <line x1="4778" y1="5305" x2="4778" y2="5321.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_93">
+        <path d="M 4808 5184 L 4848 5184 C 4850.7614 5184 4853 5186.2386 4853 5189 L 4853 5229 C 4853 5231.7614 4850.7614 5234 4848 5234 L 4808 5234 C 4805.2386 5234 4803 5231.7614 4803 5229 L 4803 5189 C 4803 5186.2386 4805.2386 5184 4808 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_92">
+        <path d="M 4808 5336 L 4848 5336 C 4850.7614 5336 4853 5338.2386 4853 5341 L 4853 5381 C 4853 5383.7614 4850.7614 5386 4848 5386 L 4808 5386 C 4805.2386 5386 4803 5383.7614 4803 5381 L 4803 5341 C 4803 5338.2386 4805.2386 5336 4808 5336 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_91">
+        <path d="M 4828 5266 L 4828 5266 C 4838.4934 5266 4847 5274.5066 4847 5285 L 4847 5285 C 4847 5295.4934 4838.4934 5304 4828 5304 L 4828 5304 C 4817.5066 5304 4809 5295.4934 4809 5285 L 4809 5285 C 4809 5274.5066 4817.5066 5266 4828 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(4814 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_90">
+        <line x1="4828" y1="5235.5" x2="4828" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_89">
+        <line x1="4828" y1="5305" x2="4828" y2="5321.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_88">
+        <path d="M 4914.397 5184 L 4954.397 5184 C 4957.1584 5184 4959.397 5186.2386 4959.397 5189 L 4959.397 5229 C 4959.397 5231.7614 4957.1584 5234 4954.397 5234 L 4914.397 5234 C 4911.6355 5234 4909.397 5231.7614 4909.397 5229 L 4909.397 5189 C 4909.397 5186.2386 4911.6355 5184 4914.397 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_87">
+        <path d="M 4914.397 5336 L 4954.397 5336 C 4957.1584 5336 4959.397 5338.2386 4959.397 5341 L 4959.397 5381 C 4959.397 5383.7614 4957.1584 5386 4954.397 5386 L 4914.397 5386 C 4911.6355 5386 4909.397 5383.7614 4909.397 5381 L 4909.397 5341 C 4909.397 5338.2386 4911.6355 5336 4914.397 5336 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_86">
+        <path d="M 4934.397 5266 L 4934.397 5266 C 4944.8904 5266 4953.397 5274.5066 4953.397 5285 L 4953.397 5285 C 4953.397 5295.4934 4944.8904 5304 4934.397 5304 L 4934.397 5304 C 4923.9036 5304 4915.397 5295.4934 4915.397 5285 L 4915.397 5285 C 4915.397 5274.5066 4923.9036 5266 4934.397 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(4920.397 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_85">
+        <line x1="4934.397" y1="5235.5" x2="4934.397" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_84">
+        <line x1="4934.397" y1="5305" x2="4934.397" y2="5321.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_83">
+        <circle cx="4891.4485" cy="5209" r="3.00000479370553" fill="#999"/>
+        <circle cx="4891.4485" cy="5209" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_82">
+        <circle cx="4870.9485" cy="5209" r="3.00000479370541" fill="#999"/>
+        <circle cx="4870.9485" cy="5209" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_81">
+        <circle cx="4891.4485" cy="5285" r="3.00000479370565" fill="#999"/>
+        <circle cx="4891.4485" cy="5285" r="3.00000479370565" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_80">
+        <circle cx="4870.9485" cy="5285" r="3.00000479370553" fill="#999"/>
+        <circle cx="4870.9485" cy="5285" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_79">
+        <circle cx="4891.4485" cy="5361" r="3.00000479370553" fill="#999"/>
+        <circle cx="4891.4485" cy="5361" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_78">
+        <circle cx="4870.9485" cy="5361" r="3.00000479370541" fill="#999"/>
+        <circle cx="4870.9485" cy="5361" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_77">
+        <text transform="translate(4602.5 5148.5)" fill="black">
+          <tspan font-family="Menlo" font-size="22" font-weight="700" fill="black" x="0" y="20">map</tspan>
+        </text>
+      </g>
+      <g id="Graphic_76">
+        <path d="M 5327 5184 L 5367 5184 C 5369.7614 5184 5372 5186.2386 5372 5189 L 5372 5229 C 5372 5231.7614 5369.7614 5234 5367 5234 L 5327 5234 C 5324.2386 5234 5322 5231.7614 5322 5229 L 5322 5189 C 5322 5186.2386 5324.2386 5184 5327 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_75">
+        <path d="M 5347 5266 L 5347 5266 C 5357.4934 5266 5366 5274.5066 5366 5285 L 5366 5285 C 5366 5295.4934 5357.4934 5304 5347 5304 L 5347 5304 C 5336.5066 5304 5328 5295.4934 5328 5285 L 5328 5285 C 5328 5274.5066 5336.5066 5266 5347 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(5333 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Graphic_74">
+        <text transform="translate(5218.2554 5198.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">input</tspan>
+        </text>
+      </g>
+      <g id="Graphic_73">
+        <text transform="translate(5202 5274.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#4f8f00" x="0" y="17">function</tspan>
+        </text>
+      </g>
+      <g id="Line_72">
+        <line x1="5347" y1="5235.5" x2="5347" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_71">
+        <path d="M 5377 5184 L 5417 5184 C 5419.7614 5184 5422 5186.2386 5422 5189 L 5422 5229 C 5422 5231.7614 5419.7614 5234 5417 5234 L 5377 5234 C 5374.2386 5234 5372 5231.7614 5372 5229 L 5372 5189 C 5372 5186.2386 5374.2386 5184 5377 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_70">
+        <path d="M 5397 5266 L 5397 5266 C 5407.4934 5266 5416 5274.5066 5416 5285 L 5416 5285 C 5416 5295.4934 5407.4934 5304 5397 5304 L 5397 5304 C 5386.5066 5304 5378 5295.4934 5378 5285 L 5378 5285 C 5378 5274.5066 5386.5066 5266 5397 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(5383 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_69">
+        <line x1="5397" y1="5235.5" x2="5397" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_68">
+        <path d="M 5483.397 5184 L 5523.397 5184 C 5526.1584 5184 5528.397 5186.2386 5528.397 5189 L 5528.397 5229 C 5528.397 5231.7614 5526.1584 5234 5523.397 5234 L 5483.397 5234 C 5480.6355 5234 5478.397 5231.7614 5478.397 5229 L 5478.397 5189 C 5478.397 5186.2386 5480.6355 5184 5483.397 5184 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_67">
+        <path d="M 5503.397 5266 L 5503.397 5266 C 5513.8904 5266 5522.397 5274.5066 5522.397 5285 L 5522.397 5285 C 5522.397 5295.4934 5513.8904 5304 5503.397 5304 L 5503.397 5304 C 5492.9036 5304 5484.397 5295.4934 5484.397 5285 L 5484.397 5285 C 5484.397 5274.5066 5492.9036 5266 5503.397 5266 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(5489.397 5275.5)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_66">
+        <line x1="5503.397" y1="5235.5" x2="5503.397" y2="5252.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_65">
+        <circle cx="5460.4485" cy="5209" r="3.00000479370541" fill="#999"/>
+        <circle cx="5460.4485" cy="5209" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_64">
+        <circle cx="5439.9485" cy="5209" r="3.00000479370553" fill="#999"/>
+        <circle cx="5439.9485" cy="5209" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_63">
+        <circle cx="5460.4485" cy="5285" r="3.00000479370553" fill="#999"/>
+        <circle cx="5460.4485" cy="5285" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <circle cx="5439.9485" cy="5285" r="3.00000479370565" fill="#999"/>
+        <circle cx="5439.9485" cy="5285" r="3.00000479370565" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_61">
+        <text transform="translate(5145.01 5148.5)" fill="black">
+          <tspan font-family="Menlo" font-size="22" font-weight="700" fill="black" x="0" y="20">foreach</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <text transform="translate(5355 5350.75)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#a5a5a5" x="0" y="17">side effects</tspan>
+        </text>
+      </g>
+      <g id="Line_105">
+        <line x1="5347" y1="5305" x2="5347" y2="5332.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_106">
+        <line x1="5397.011" y1="5305" x2="5397.0267" y2="5332.439" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_107">
+        <line x1="5503.397" y1="5305" x2="5503.397" y2="5332.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
