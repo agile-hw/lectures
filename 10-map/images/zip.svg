@@ -23,7 +23,7 @@
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-19 20:18:42 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-20 00:40:52 +0000</metadata>
   <g id="zip" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none">
     <title>zip</title>
     <g id="zip_Layer_1">
@@ -52,7 +52,7 @@
       <g id="Graphic_8">
         <path d="M 4827.4096 5057.75 L 4879.3796 5057.75 C 4889.873 5057.75 4898.3796 5066.2566 4898.3796 5076.75 L 4898.3796 5076.75 C 4898.3796 5087.2434 4889.873 5095.75 4879.3796 5095.75 L 4827.4096 5095.75 C 4816.916 5095.75 4808.4096 5087.2434 4808.4096 5076.75 L 4808.4096 5076.75 C 4808.4096 5066.2566 4816.916 5057.75 4827.4096 5057.75 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
         <text transform="translate(4813.4096 5067.25)" fill="#4f8f00">
-          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="15.902954" y="15">tuple</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="20.71936" y="15">pair</tspan>
         </text>
       </g>
       <g id="Graphic_7">
@@ -82,7 +82,7 @@
       <g id="Graphic_18">
         <path d="M 4943.563 5057.75 L 4995.533 5057.75 C 5006.0263 5057.75 5014.533 5066.2566 5014.533 5076.75 L 5014.533 5076.75 C 5014.533 5087.2434 5006.0263 5095.75 4995.533 5095.75 L 4943.563 5095.75 C 4933.0695 5095.75 4924.563 5087.2434 4924.563 5076.75 L 4924.563 5076.75 C 4924.563 5066.2566 4933.0695 5057.75 4943.563 5057.75 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
         <text transform="translate(4929.563 5067.25)" fill="#4f8f00">
-          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="15.902954" y="15">tuple</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="20.71936" y="15">pair</tspan>
         </text>
       </g>
       <g id="Graphic_17">
@@ -115,7 +115,7 @@
       <g id="Graphic_40">
         <path d="M 5163.9096 5057.75 L 5215.8796 5057.75 C 5226.373 5057.75 5234.8796 5066.2566 5234.8796 5076.75 L 5234.8796 5076.75 C 5234.8796 5087.2434 5226.373 5095.75 5215.8796 5095.75 L 5163.9096 5095.75 C 5153.416 5095.75 5144.9096 5087.2434 5144.9096 5076.75 L 5144.9096 5076.75 C 5144.9096 5066.2566 5153.416 5057.75 5163.9096 5057.75 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
         <text transform="translate(5149.9096 5067.25)" fill="#4f8f00">
-          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="15.902954" y="15">tuple</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="20.71936" y="15">pair</tspan>
         </text>
       </g>
       <g id="Graphic_39">
