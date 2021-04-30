@@ -23,7 +23,7 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-30 20:13:53 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-30 23:53:48 +0000</metadata>
   <g id="ring_2_way" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
     <title>ring 2 way</title>
     <g id="ring_2_way_Layer_1">
@@ -68,9 +68,6 @@
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">RingRouter</tspan>
         </text>
       </g>
-      <g id="Line_14">
-        <line x1="4407.0846" y1="4838.125" x2="4441.1" y2="4838.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      </g>
       <g id="Line_15">
         <line x1="4585.269" y1="4838.125" x2="4599.1" y2="4838.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
@@ -103,6 +100,9 @@
         <text transform="translate(4746.234 4906)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">port(n-1)</tspan>
         </text>
+      </g>
+      <g id="Line_27">
+        <line x1="4407.0846" y1="4838.125" x2="4441.1" y2="4838.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
     </g>
   </g>
