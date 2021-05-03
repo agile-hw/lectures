@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="547.7031 809.5 806.4 136" width="806.4" height="136">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-687.5" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-03 19:53:04 +0000</metadata>
+  <g id="Canvas_33" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 33</title>
+    <g id="Canvas_33_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_2">
+        <line x1="688.5" y1="916.5" x2="1003.1" y2="916.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(834.4844 921.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 694.5 883 L 786 883 C 788.7614 883 791 885.2386 791 888 L 791 907 C 791 909.7614 788.7614 912 786 912 L 694.5 912 C 691.7386 912 689.5 909.7614 689.5 907 L 689.5 888 C 689.5 885.2386 691.7386 883 694.5 883 Z" fill="#5ec962"/>
+        <path d="M 694.5 883 L 786 883 C 788.7614 883 791 885.2386 791 888 L 791 907 C 791 909.7614 788.7614 912 786 912 L 694.5 912 C 691.7386 912 689.5 909.7614 689.5 907 L 689.5 888 C 689.5 885.2386 691.7386 883 694.5 883 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 796 883 L 906 883 C 908.7614 883 911 885.2386 911 888 L 911 907 C 911 909.7614 908.7614 912 906 912 L 796 912 C 793.2386 912 791 909.7614 791 907 L 791 888 C 791 885.2386 793.2386 883 796 883 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 917.5 883 L 989 883 C 991.7614 883 994 885.2386 994 888 L 994 907 C 994 909.7614 991.7614 912 989 912 L 917.5 912 C 914.7386 912 912.5 909.7614 912.5 907 L 912.5 888 C 912.5 885.2386 914.7386 883 917.5 883 Z" fill="#5ec962"/>
+        <path d="M 917.5 883 L 989 883 C 991.7614 883 994 885.2386 994 888 L 994 907 C 994 909.7614 991.7614 912 989 912 L 917.5 912 C 914.7386 912 912.5 909.7614 912.5 907 L 912.5 888 C 912.5 885.2386 914.7386 883 917.5 883 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 694.5 849.5 L 786 849.5 C 788.7614 849.5 791 851.7386 791 854.5 L 791 873.5 C 791 876.2614 788.7614 878.5 786 878.5 L 694.5 878.5 C 691.7386 878.5 689.5 876.2614 689.5 873.5 L 689.5 854.5 C 689.5 851.7386 691.7386 849.5 694.5 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 796 849.5 L 906 849.5 C 908.7614 849.5 911 851.7386 911 854.5 L 911 873.5 C 911 876.2614 908.7614 878.5 906 878.5 L 796 878.5 C 793.2386 878.5 791 876.2614 791 873.5 L 791 854.5 C 791 851.7386 793.2386 849.5 796 849.5 Z" fill="#0044b4"/>
+        <path d="M 796 849.5 L 906 849.5 C 908.7614 849.5 911 851.7386 911 854.5 L 911 873.5 C 911 876.2614 908.7614 878.5 906 878.5 L 796 878.5 C 793.2386 878.5 791 876.2614 791 873.5 L 791 854.5 C 791 851.7386 793.2386 849.5 796 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 917.5 849.5 L 989 849.5 C 991.7614 849.5 994 851.7386 994 854.5 L 994 873.5 C 994 876.2614 991.7614 878.5 989 878.5 L 917.5 878.5 C 914.7386 878.5 912.5 876.2614 912.5 873.5 L 912.5 854.5 C 912.5 851.7386 914.7386 849.5 917.5 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(552.7031 854.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#0044b4" x="0" y="15">Compute</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(552.7031 888)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#5ec962" x="0" y="15">Communication</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(831.7344 888)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">idle</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(720.9844 854.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">idle</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(933.9844 854.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">idle</tspan>
+        </text>
+      </g>
+      <g id="Line_41">
+        <line x1="1134.5" y1="916.5" x2="1328.3031" y2="916.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(1220.086 921.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <path d="M 1140.5 883 L 1232 883 C 1234.7614 883 1237 885.2386 1237 888 L 1237 907 C 1237 909.7614 1234.7614 912 1232 912 L 1140.5 912 C 1137.7386 912 1135.5 909.7614 1135.5 907 L 1135.5 888 C 1135.5 885.2386 1137.7386 883 1140.5 883 Z" fill="#5ec962"/>
+        <path d="M 1140.5 883 L 1232 883 C 1234.7614 883 1237 885.2386 1237 888 L 1237 907 C 1237 909.7614 1234.7614 912 1232 912 L 1140.5 912 C 1137.7386 912 1135.5 909.7614 1135.5 907 L 1135.5 888 C 1135.5 885.2386 1137.7386 883 1140.5 883 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_37">
+        <path d="M 1242 883 L 1313.5 883 C 1316.2614 883 1318.5 885.2386 1318.5 888 L 1318.5 907 C 1318.5 909.7614 1316.2614 912 1313.5 912 L 1242 912 C 1239.2386 912 1237 909.7614 1237 907 L 1237 888 C 1237 885.2386 1239.2386 883 1242 883 Z" fill="#5ec962"/>
+        <path d="M 1242 883 L 1313.5 883 C 1316.2614 883 1318.5 885.2386 1318.5 888 L 1318.5 907 C 1318.5 909.7614 1316.2614 912 1313.5 912 L 1242 912 C 1239.2386 912 1237 909.7614 1237 907 L 1237 888 C 1237 885.2386 1239.2386 883 1242 883 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_36">
+        <path d="M 1140.5 849.5 L 1165.2031 849.5 C 1167.9645 849.5 1170.2031 851.7386 1170.2031 854.5 L 1170.2031 873.5 C 1170.2031 876.2614 1167.9645 878.5 1165.2031 878.5 L 1140.5 878.5 C 1137.7386 878.5 1135.5 876.2614 1135.5 873.5 L 1135.5 854.5 C 1135.5 851.7386 1137.7386 849.5 1140.5 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 1175.2031 849.5 L 1285.2031 849.5 C 1287.9645 849.5 1290.2031 851.7386 1290.2031 854.5 L 1290.2031 873.5 C 1290.2031 876.2614 1287.9645 878.5 1285.2031 878.5 L 1175.2031 878.5 C 1172.4417 878.5 1170.2031 876.2614 1170.2031 873.5 L 1170.2031 854.5 C 1170.2031 851.7386 1172.4417 849.5 1175.2031 849.5 Z" fill="#0044b4"/>
+        <path d="M 1175.2031 849.5 L 1285.2031 849.5 C 1287.9645 849.5 1290.2031 851.7386 1290.2031 854.5 L 1290.2031 873.5 C 1290.2031 876.2614 1287.9645 878.5 1285.2031 878.5 L 1175.2031 878.5 C 1172.4417 878.5 1170.2031 876.2614 1170.2031 873.5 L 1170.2031 854.5 C 1170.2031 851.7386 1172.4417 849.5 1175.2031 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <path d="M 1295.2031 849.5 L 1313.5 849.5 C 1316.2614 849.5 1318.5 851.7386 1318.5 854.5 L 1318.5 873.5 C 1318.5 876.2614 1316.2614 878.5 1313.5 878.5 L 1295.2031 878.5 C 1292.4417 878.5 1290.2031 876.2614 1290.2031 873.5 L 1290.2031 854.5 C 1290.2031 851.7386 1292.4417 849.5 1295.2031 849.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(797.6309 814.5)" fill="black">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">No Overlap</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <text transform="translate(1111.6279 814.5)" fill="black">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">Overlap Comm. &amp; Comp.</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

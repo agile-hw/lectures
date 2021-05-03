@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="973.7734 1494 804.4531 155.5" width="804.4531" height="155.5">
+  <defs>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#0044b4">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#0044b4">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#5ec962">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#5ec962">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_5" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#0044b4">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_6" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#0044b4">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_7" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#5ec962">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_8" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="#5ec962">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-03 20:10:46 +0000</metadata>
+  <g id="double_buffer" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>double buffer</title>
+    <g id="double_buffer_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <text transform="translate(1140.0708 1499)" fill="black">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">Phase 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(1026 1550.25)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#0044b4" x="0" y="15">Compute</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(978.7734 1615.75)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#5ec962" x="0" y="15">Communication</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <path d="M 1244 1602 L 1326.5 1602 C 1329.2614 1602 1331.5 1604.2386 1331.5 1607 L 1331.5 1643.5 C 1331.5 1646.2614 1329.2614 1648.5 1326.5 1648.5 L 1244 1648.5 C 1241.2386 1648.5 1239 1646.2614 1239 1643.5 L 1239 1607 C 1239 1604.2386 1241.2386 1602 1244 1602 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1244 1615.75)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#5ec962" x="2.71875" y="15">Memory 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <path d="M 1244 1536.5 L 1326.5 1536.5 C 1329.2614 1536.5 1331.5 1538.7386 1331.5 1541.5 L 1331.5 1578 C 1331.5 1580.7614 1329.2614 1583 1326.5 1583 L 1244 1583 C 1241.2386 1583 1239 1580.7614 1239 1578 L 1239 1541.5 C 1239 1538.7386 1241.2386 1536.5 1244 1536.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1244 1550.25)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="2.71875" y="15">Memory 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 1161.3666 1596.284 C 1154.0938 1590 1156.994 1537.0984 1168.5959 1546.125 C 1169.6723 1528.5294 1183.1638 1531.3853 1183.0756 1546.125 C 1191.5351 1527.2728 1202.3459 1564.8637 1195.0946 1583.716 C 1203.7958 1592.856 1194.9848 1642.1013 1187.8438 1633.875 C 1187.2722 1647.5862 1174.5062 1652.3844 1173.3857 1633.875 C 1166.1569 1653.6421 1151.0837 1623.249 1161.3666 1596.284 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_19">
+        <line x1="1225.1" y1="1559.75" x2="1209.3976" y2="1559.75" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_18">
+        <line x1="1226.1" y1="1624.75" x2="1209.3976" y2="1624.75" marker-end="url(#FilledArrow_Marker_3)" marker-start="url(#FilledArrow_Marker_4)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_17">
+        <line x1="1146.6" y1="1559.25" x2="1121.8976" y2="1559.25" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_16">
+        <line x1="1145.6" y1="1624.75" x2="1121.8976" y2="1624.75" marker-end="url(#FilledArrow_Marker_3)" marker-start="url(#FilledArrow_Marker_4)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(1585.7974 1499)" fill="black">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">Phase 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(1471.7266 1550.25)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#0044b4" x="0" y="15">Compute</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(1424.5 1615.75)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#5ec962" x="0" y="15">Communication</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <path d="M 1689.7266 1602 L 1772.2266 1602 C 1774.988 1602 1777.2266 1604.2386 1777.2266 1607 L 1777.2266 1643.5 C 1777.2266 1646.2614 1774.988 1648.5 1772.2266 1648.5 L 1689.7266 1648.5 C 1686.9651 1648.5 1684.7266 1646.2614 1684.7266 1643.5 L 1684.7266 1607 C 1684.7266 1604.2386 1686.9651 1602 1689.7266 1602 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1689.7266 1615.75)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="2.71875" y="15">Memory 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M 1689.7266 1536.5 L 1772.2266 1536.5 C 1774.988 1536.5 1777.2266 1538.7386 1777.2266 1541.5 L 1777.2266 1578 C 1777.2266 1580.7614 1774.988 1583 1772.2266 1583 L 1689.7266 1583 C 1686.9651 1583 1684.7266 1580.7614 1684.7266 1578 L 1684.7266 1541.5 C 1684.7266 1538.7386 1686.9651 1536.5 1689.7266 1536.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1689.7266 1550.25)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#5ec962" x="2.71875" y="15">Memory 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 1607.0932 1596.284 C 1599.8203 1590 1602.7206 1537.0984 1614.3225 1546.125 C 1615.3989 1528.5294 1628.8903 1531.3853 1628.8021 1546.125 C 1637.2617 1527.2728 1648.0725 1564.8637 1640.8212 1583.716 C 1649.5224 1592.856 1640.7114 1642.1013 1633.5703 1633.875 C 1632.9988 1647.5862 1620.2328 1652.3844 1619.1123 1633.875 C 1611.8835 1653.6421 1596.8103 1623.249 1607.0932 1596.284 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_27">
+        <line x1="1670.8266" y1="1559.75" x2="1655.1241" y2="1559.75" marker-end="url(#FilledArrow_Marker_3)" marker-start="url(#FilledArrow_Marker_4)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_26">
+        <line x1="1671.8266" y1="1624.75" x2="1655.1241" y2="1624.75" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_25">
+        <line x1="1592.3266" y1="1559.25" x2="1567.6241" y2="1559.25" marker-end="url(#FilledArrow_Marker_5)" marker-start="url(#FilledArrow_Marker_6)" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_24">
+        <line x1="1591.3266" y1="1624.75" x2="1567.6241" y2="1624.75" marker-end="url(#FilledArrow_Marker_7)" marker-start="url(#FilledArrow_Marker_8)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

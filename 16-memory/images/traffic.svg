@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="406.5 533.5 727.9297 185.5" width="727.9297" height="185.5">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-687.5" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="19" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-03 19:34:42 +0000</metadata>
+  <g id="demand" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>demand</title>
+    <g id="demand_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_10">
+        <line x1="440" y1="661" x2="659" y2="661" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Line_2">
+        <line x1="440" y1="689" x2="701.1" y2="689" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_3">
+        <line x1="440" y1="689" x2="440" y2="562.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(411.5 684) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Bandwidth Use</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(551.5 695)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 461 574.5 L 501 574.5 C 503.7614 574.5 506 576.7386 506 579.5 L 506 683 C 506 685.7614 503.7614 688 501 688 L 461 688 C 458.2386 688 456 685.7614 456 683 L 456 579.5 C 456 576.7386 458.2386 574.5 461 574.5 Z" fill="#0044b4"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 598.5 574.5 L 638.5 574.5 C 641.2614 574.5 643.5 576.7386 643.5 579.5 L 643.5 683 C 643.5 685.7614 641.2614 688 638.5 688 L 598.5 688 C 595.7386 688 593.5 685.7614 593.5 683 L 593.5 579.5 C 593.5 576.7386 595.7386 574.5 598.5 574.5 Z" fill="#0044b4"/>
+      </g>
+      <g id="Line_8">
+        <line x1="440" y1="573.5" x2="659" y2="573.5" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(668 564.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="0" y="15">Peak</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(668.5 652)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="0" y="15">Average</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(478.3545 538.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="19" font-weight="700" fill="#0044b4" x="0" y="18">Bursty Traffic</tspan>
+        </text>
+      </g>
+      <g id="Line_23">
+        <line x1="833.5" y1="661" x2="1052.5" y2="661" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Line_22">
+        <line x1="833.5" y1="689" x2="1094.6" y2="689" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_21">
+        <line x1="833.5" y1="689" x2="833.5" y2="562.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(805 684) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Bandwidth Use</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <text transform="translate(945 695)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 854.5 661 L 1043.439 661 C 1046.2004 661 1048.439 663.2386 1048.439 666 L 1048.439 683 C 1048.439 685.7614 1046.2004 688 1043.439 688 L 854.5 688 C 851.7386 688 849.5 685.7614 849.5 683 L 849.5 666 C 849.5 663.2386 851.7386 661 854.5 661 Z" fill="#5ec962"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(1062.8164 643.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="0" y="15">Peak /</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(1062 659)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="black" x="0" y="15">Average</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(860.4155 538.5)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="19" font-weight="700" fill="#5ec962" x="0" y="18">Smoothed Traffic</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

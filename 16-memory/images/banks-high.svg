@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="4153.9 5194 607.6 177.5" width="607.6" height="177.5">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-03 19:45:07 +0000</metadata>
+  <g id="banking" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>banking</title>
+    <g id="banking_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 4576.5 5225 L 4755 5225 C 4757.7614 5225 4760 5227.2386 4760 5230 L 4760 5365 C 4760 5367.7614 4757.7614 5370 4755 5370 L 4576.5 5370 C 4573.7386 5370 4571.5 5367.7614 4571.5 5365 L 4571.5 5230 C 4571.5 5227.2386 4573.7386 5225 4576.5 5225 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 4680.5 5307 L 4746 5307 C 4748.7614 5307 4751 5309.2386 4751 5312 L 4751 5348.5 C 4751 5351.2614 4748.7614 5353.5 4746 5353.5 L 4680.5 5353.5 C 4677.7386 5353.5 4675.5 5351.2614 4675.5 5348.5 L 4675.5 5312 C 4675.5 5309.2386 4677.7386 5307 4680.5 5307 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(4680.5 5320.75)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="3.8515625" y="15">Bank 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 4680.5 5241.5 L 4746 5241.5 C 4748.7614 5241.5 4751 5243.7386 4751 5246.5 L 4751 5283 C 4751 5285.7614 4748.7614 5288 4746 5288 L 4680.5 5288 C 4677.7386 5288 4675.5 5285.7614 4675.5 5283 L 4675.5 5246.5 C 4675.5 5243.7386 4677.7386 5241.5 4680.5 5241.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(4680.5 5255.25)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="3.8515625" y="15">Bank 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 4597.8666 5301.284 C 4590.594 5295 4593.494 5242.0985 4605.096 5251.125 C 4606.1723 5233.5294 4619.664 5236.3853 4619.5755 5251.125 C 4628.035 5232.273 4638.846 5269.864 4631.5946 5288.716 C 4640.296 5297.856 4631.485 5347.101 4624.344 5338.875 C 4623.772 5352.586 4611.006 5357.3844 4609.8857 5338.875 C 4602.657 5358.642 4587.5837 5328.249 4597.8666 5301.284 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_8">
+        <line x1="4661.6" y1="5264.75" x2="4645.8976" y2="5264.75" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_9">
+        <line x1="4662.6" y1="5329.75" x2="4645.8976" y2="5329.75" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_11">
+        <line x1="4583.1" y1="5264.25" x2="4533.3976" y2="5264.25" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_12">
+        <line x1="4582.1" y1="5329.75" x2="4532.3976" y2="5329.75" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(4572 5199)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="#0044b4" x="0" y="17">Banked Memory</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <path d="M 4217.5 5225 L 4396 5225 C 4398.7614 5225 4401 5227.2386 4401 5230 L 4401 5365 C 4401 5367.7614 4398.7614 5370 4396 5370 L 4217.5 5370 C 4214.7386 5370 4212.5 5367.7614 4212.5 5365 L 4212.5 5230 C 4212.5 5227.2386 4214.7386 5225 4217.5 5225 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_15">
+        <line x1="4199.1" y1="5294.5" x2="4173.3976" y2="5294.5" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(4217.5 5199)" fill="black">
+          <tspan font-family="Menlo" font-size="18" font-weight="700" fill="black" x="0" y="17">Memory</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
