@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4807 5749.5 710.4 204" width="710.4" height="204">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-687.5" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="19" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 18:45:47 +0000</metadata>
+  <g id="path_histogram" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>path histogram</title>
+    <g id="path_histogram_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_11">
+        <line x1="4840.5" y1="5923.5" x2="5101.6" y2="5923.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_10">
+        <line x1="4840.5" y1="5923.5" x2="4840.5" y2="5797.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(4812 5904.051) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15"># of Paths</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(4923.1016 5929.5)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Path Delay</tspan>
+        </text>
+      </g>
+      <g id="Line_14">
+        <path d="M 4846 5854.3515 C 4850.5744 5832.3556 4853.4753 5784.6075 4859.7247 5788.357 C 4865.974 5792.107 4876.705 5857.938 4883.5 5876.8515 C 4890.295 5895.765 4891.6034 5897.684 4900.5 5901.8515 C 4909.3966 5906.019 4940.323 5907.893 4972.5 5909.902 C 5004.677 5911.9116 5043.273 5912.8346 5095.5 5916.8515" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_16">
+        <line x1="5047.5" y1="5810" x2="5047.5" y2="5923.5" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(5059.5 5836.887)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">Target</tspan>
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="34">Period</tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="5230.5" y1="5922.75" x2="5491.6" y2="5922.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_30">
+        <line x1="5230.5" y1="5922.75" x2="5230.5" y2="5796.65" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(5202 5903.301) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15"># of Paths</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(5313.1016 5928.75)" fill="black">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="black" x="0" y="15">Path Delay</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <path d="M 5236 5853.6015 C 5240.5744 5831.6056 5243.475 5783.8575 5249.7247 5787.607 C 5255.974 5791.357 5266.705 5857.188 5273.5 5876.1015 C 5280.295 5895.015 5281.6034 5896.934 5290.5 5901.1015 C 5299.3966 5905.269 5330.323 5907.143 5362.5 5909.152 C 5394.677 5911.1616 5429 5909.051 5429 5909.051 C 5429 5909.051 5441 5900.5 5437.5 5875.5" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_26">
+        <line x1="5437.5" y1="5809.25" x2="5437.5" y2="5922.75" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(5449.5 5836.137)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">Target</tspan>
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="34">Period</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(4839.7175 5754.5)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="19" font-weight="700" fill="#0044b4" x="0" y="18">Before Optimizing Paths</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(5235.437 5754.5)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="19" font-weight="700" fill="#5ec962" x="0" y="18">After Optimizing Paths</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

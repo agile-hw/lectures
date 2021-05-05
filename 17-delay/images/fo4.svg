@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4566.9 5430.5 183.2 215" width="183.2" height="215">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -4 7 8" markerWidth="7" markerHeight="8" color="black">
+      <g>
+        <circle cx="-2.249999" cy="0" r="2.24999801151249" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="-2.4" x2="0" y2="2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="2.4" x2="0" y2="-2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 18:45:47 +0000</metadata>
+  <g id="FO4" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>FO4</title>
+    <g id="FO4_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <g id="Graphic_5">
+          <path d="M 4591.5 5519 L 4627.5 5537 L 4591.5 5555 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_4">
+          <line x1="4637.5" y1="5537" x2="4645.5" y2="5537" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_3">
+          <line x1="4573.5" y1="5537" x2="4591.5" y2="5537" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_6">
+        <g id="Graphic_9">
+          <path d="M 4689.5 5431.5 L 4725.5 5449.5 L 4689.5 5467.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_8">
+          <line x1="4735.5" y1="5449.5" x2="4743.5" y2="5449.5" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_7">
+          <line x1="4671.5" y1="5449.5" x2="4689.5" y2="5449.5" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_10">
+        <g id="Graphic_13">
+          <path d="M 4689.5 5490.5 L 4725.5 5508.5 L 4689.5 5526.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_12">
+          <line x1="4735.5" y1="5508.5" x2="4743.5" y2="5508.5" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_11">
+          <line x1="4671.5" y1="5508.5" x2="4689.5" y2="5508.5" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_14">
+        <g id="Graphic_17">
+          <path d="M 4689.5 5549.5 L 4725.5 5567.5 L 4689.5 5585.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_16">
+          <line x1="4735.5" y1="5567.5" x2="4743.5" y2="5567.5" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_15">
+          <line x1="4671.5" y1="5567.5" x2="4689.5" y2="5567.5" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_18">
+        <g id="Graphic_21">
+          <path d="M 4689.5 5608.5 L 4725.5 5626.5 L 4689.5 5644.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_20">
+          <line x1="4735.5" y1="5626.5" x2="4743.5" y2="5626.5" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_19">
+          <line x1="4671.5" y1="5626.5" x2="4689.5" y2="5626.5" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_22">
+        <line x1="4671.5" y1="5449.5" x2="4671.5" y2="5626.5" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_23">
+        <line x1="4645.5" y1="5537" x2="4671.5" y2="5537" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_25">
+        <line x1="4642.3" y1="5584.5" x2="4576.7" y2="5584.5" marker-end="url(#NegativeControls_Marker)" marker-start="url(#NegativeControls_Marker_2)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(4593.2446 5590.5)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#5ec962" x="0" y="17">FO4</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

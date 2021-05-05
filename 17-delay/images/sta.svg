@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4508.743 5641 478.88707 174.59351" width="478.88707" height="174.59351">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <circle cx="-1.7999992" cy="0" r="1.79999840920999" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="14" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-785.7143" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 20:04:17 +0000</metadata>
+  <g id="sta" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>sta</title>
+    <g id="sta_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <g id="Graphic_6">
+          <path d="M 4719.243 5802.3034 L 4728.243 5802.3034 C 4750.743 5800.5034 4752.993 5795.1034 4764.243 5784.3034 C 4752.993 5773.5034 4750.743 5768.1034 4728.243 5766.3034 L 4719.243 5766.3034 C 4721.493 5773.5034 4722.618 5774.4034 4723.743 5784.3034 C 4722.618 5794.2034 4721.493 5795.1034 4719.243 5802.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_5">
+          <line x1="4765.243" y1="5784.3034" x2="4782.243" y2="5784.3034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_4">
+          <line x1="4701.243" y1="5775.3034" x2="4722.2444" y2="5775.4674" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_3">
+          <line x1="4701.243" y1="5793.3034" x2="4722.1595" y2="5793.457" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_7">
+        <g id="Graphic_11">
+          <path d="M 4552.243 5730.3034 L 4574.743 5730.3034 C 4585.993 5730.3034 4597.243 5725.8034 4597.243 5712.3034 C 4597.243 5698.8034 4585.993 5694.3034 4574.743 5694.3034 L 4552.243 5694.3034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_10">
+          <line x1="4597.243" y1="5712.3034" x2="4615.243" y2="5712.3034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_9">
+          <line x1="4552.243" y1="5721.3034" x2="4534.243" y2="5721.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_8">
+          <line x1="4552.243" y1="5703.3034" x2="4534.243" y2="5703.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_12">
+        <g id="Graphic_17">
+          <path d="M 4886.243 5793.8034 L 4895.243 5793.8034 C 4917.743 5792.0034 4919.993 5786.6034 4931.243 5775.8034 C 4919.993 5765.0034 4917.743 5759.6034 4895.243 5757.8034 L 4886.243 5757.8034 C 4888.493 5765.0034 4889.618 5765.9034 4890.743 5775.8034 C 4889.618 5785.7034 4888.493 5786.6034 4886.243 5793.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_16">
+          <line x1="4932.243" y1="5775.8034" x2="4949.243" y2="5775.8034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_15">
+          <line x1="4868.243" y1="5766.8034" x2="4889.2444" y2="5766.9674" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_14">
+          <line x1="4868.243" y1="5784.8034" x2="4889.1595" y2="5784.957" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_13">
+          <path d="M 4877.243 5757.8034 C 4878.243 5762.803 4879.743 5768.637 4880.243 5772.8034 C 4880.743 5776.97 4880.743 5779.304 4880.243 5782.8034 C 4879.743 5786.303 4878.243 5790.137 4877.243 5793.8034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_18">
+        <g id="Graphic_22">
+          <path d="M 4552.243 5810.8034 L 4574.743 5810.8034 C 4585.993 5810.8034 4597.243 5806.3034 4597.243 5792.8034 C 4597.243 5779.3034 4585.993 5774.8034 4574.743 5774.8034 L 4552.243 5774.8034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_21">
+          <line x1="4605.443" y1="5792.8034" x2="4615.243" y2="5792.8034" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_20">
+          <line x1="4552.243" y1="5801.8034" x2="4534.243" y2="5801.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_19">
+          <line x1="4552.243" y1="5783.8034" x2="4534.243" y2="5783.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_23">
+        <g id="Graphic_27">
+          <path d="M 4719.243 5721.8034 L 4741.743 5721.8034 C 4752.993 5721.8034 4764.243 5717.3034 4764.243 5703.8034 C 4764.243 5690.3034 4752.993 5685.8034 4741.743 5685.8034 L 4719.243 5685.8034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_26">
+          <line x1="4772.443" y1="5703.8034" x2="4782.243" y2="5703.8034" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_25">
+          <line x1="4719.243" y1="5712.8034" x2="4701.243" y2="5712.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_24">
+          <line x1="4719.243" y1="5694.8034" x2="4701.243" y2="5694.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_28">
+        <path d="M 4615.243 5792.8034 L 4626.243 5792.8034 L 4690.243 5793.3034 L 4701.243 5793.3034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_29">
+        <path d="M 4782.243 5784.3034 L 4793.243 5784.3034 L 4857.243 5784.8034 L 4868.243 5784.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_30">
+        <path d="M 4615.243 5712.3034 L 4626.243 5712.3034 L 4690.243 5712.8034 L 4701.243 5712.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_31">
+        <path d="M 4701.243 5694.8034 L 4654.43 5694.8034 L 4654.43 5680.376 L 4534.243 5680.376" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_32">
+        <path d="M 4653.808 5712.519 L 4653.808 5723.519 L 4653.449 5770.321 L 4653.449 5775.3034 L 4701.243 5775.3034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_33">
+        <path d="M 4782.243 5703.8034 L 4825.0333 5703.8034 L 4825.0333 5766.8034 L 4868.243 5766.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_34">
+        <circle cx="4654.0064" cy="5712.3034" r="3.00000479370541" fill="black"/>
+        <circle cx="4654.0064" cy="5712.3034" r="3.00000479370541" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <text transform="translate(4566.743 5704.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_36">
+        <text transform="translate(4566.743 5784.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(4737.5286 5695.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(4737.5286 5776.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(4904.5286 5767.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(4626.243 5662.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(4680.743 5695.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(4680.743 5758.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <text transform="translate(4680.743 5777.067)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">7</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(4836.6715 5767.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(4836.6715 5750.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <text transform="translate(4932.243 5758.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">23</tspan>
+        </text>
+      </g>
+      <g id="Graphic_47">
+        <text transform="translate(4777.743 5685.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">12</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <text transform="translate(4769.243 5767.8034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">14</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <text transform="translate(4610.4573 5776.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <text transform="translate(4606.4573 5695.8034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <text transform="translate(4513.743 5694.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <text transform="translate(4513.743 5714.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(4513.743 5672.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(4513.743 5776.3034)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <text transform="translate(4513.743 5794.5935)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(4532.1717 5685.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <text transform="translate(4532.1717 5704.3034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <text transform="translate(4532.1717 5767.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <text transform="translate(4532.1717 5784.8034)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <text transform="translate(4543.243 5685.3034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <text transform="translate(4543.243 5704.3034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(4543.243 5767.8034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <text transform="translate(4542.8143 5784.8034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <text transform="translate(4707.1717 5758.3034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(4702.9573 5776.3034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <text transform="translate(4707.935 5678.5935)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(4700.2697 5695.8034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <text transform="translate(4858.9796 5750.3034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">14</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <text transform="translate(4858.9796 5767.8034)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">15</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <text transform="translate(4827.6004 5664)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="13">input arrival time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <text transform="translate(4886.6014 5682.25)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="13">output time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_72">
+        <text transform="translate(4814.056 5646)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="13">delay (gate or wire)</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

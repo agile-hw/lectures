@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4410.5205 5991 1030.7456 399" width="1030.7456" height="399">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-687.5" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="20" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 20:19:53 +0000</metadata>
+  <g id="retime" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>retime</title>
+    <g id="retime_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 4718.982 6076.784 C 4619.828 6070.5 4659.368 6017.5985 4817.541 6026.625 C 4832.2157 6009.0294 5016.149 6011.885 5014.9467 6026.625 C 5130.2785 6007.773 5277.666 6045.364 5178.8064 6064.216 C 5297.433 6073.356 5177.3094 6122.601 5079.953 6114.375 C 5072.1617 6128.086 4898.118 6132.8844 4882.842 6114.375 C 4784.289 6134.142 4578.791 6103.749 4718.982 6076.784 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="5263" y="6012" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 5271.448 6130 L 5283.125 6106.646 L 5294.802 6130 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_7">
+        <rect x="4551" y="6012" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 4559.448 6130 L 4571.125 6106.646 L 4582.802 6130 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 4647.7406 6336.784 C 4602.487 6330.5 4620.533 6277.5985 4692.7226 6286.625 C 4699.42 6269.029 4783.367 6271.885 4782.818 6286.625 C 4835.4554 6267.773 4902.7226 6305.364 4857.6034 6324.216 C 4911.744 6333.356 4856.92 6382.601 4812.487 6374.375 C 4808.931 6388.086 4729.498 6392.8844 4722.526 6374.375 C 4677.5466 6394.142 4583.758 6363.749 4647.7406 6336.784 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="5263" y="6271" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 5271.448 6389 L 5283.125 6365.646 L 5294.802 6389 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="4551" y="6271" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 4559.448 6389 L 4571.125 6365.646 L 4582.802 6389 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="4911.224" y="6271" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 4919.672 6389 L 4931.349 6365.646 L 4943.026 6389 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 5007.9645 6336.784 C 4962.711 6330.5 4980.757 6277.5985 5052.9465 6286.625 C 5059.644 6269.029 5143.591 6271.885 5143.042 6286.625 C 5195.6793 6267.773 5262.9465 6305.364 5217.8273 6324.216 C 5271.968 6333.356 5217.144 6382.601 5172.711 6374.375 C 5169.155 6388.086 5089.722 6392.8844 5082.75 6374.375 C 5037.7705 6394.142 4943.982 6363.749 5007.9645 6336.784 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_16">
+        <line x1="4591.25" y1="6070" x2="4664.933" y2="6070" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_17">
+        <line x1="5218.219" y1="6070" x2="5250.902" y2="6070" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_18">
+        <line x1="5303.25" y1="6070" x2="5335.933" y2="6070" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_19">
+        <line x1="4505.417" y1="6070.5" x2="4538.1" y2="6070.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_20">
+        <line x1="4505.417" y1="6330" x2="4538.1" y2="6330" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_21">
+        <line x1="5303.25" y1="6330" x2="5335.933" y2="6330" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_22">
+        <line x1="4591.25" y1="6330" x2="4615.933" y2="6330" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_23">
+        <line x1="4874.641" y1="6329.5" x2="4898.324" y2="6329.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_24">
+        <line x1="4951.474" y1="6329.5" x2="4977.157" y2="6329.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_25">
+        <line x1="5234.219" y1="6329.5" x2="5250.902" y2="6329.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(4837.2487 6061.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="15">Long Combinational Path</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(4664.5417 6311.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="52.98047" y="15">Shorter</tspan>
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="34">Combinational Path</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(5024.7656 6311.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="52.98047" y="15">Shorter</tspan>
+          <tspan font-family="Menlo" font-size="16" font-style="italic" font-weight="400" fill="#a5a5a5" x="0" y="34">Combinational Path</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(4415.5205 5996)" fill="black">
+          <tspan font-family="Menlo" font-size="20" font-weight="700" fill="black" x="0" y="19">Original</tspan>
+        </text>
+      </g>
+      <g id="Graphic_34">
+        <text transform="translate(4421.541 6277)" fill="black">
+          <tspan font-family="Menlo" font-size="20" font-weight="700" fill="black" x="0" y="19">Retimed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <rect x="5348.833" y="6011" width="40.25" height="118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_36">
+        <path d="M 5357.281 6129 L 5368.958 6105.646 L 5380.635 6129 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_35">
+        <line x1="5389.083" y1="6069" x2="5421.766" y2="6069" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

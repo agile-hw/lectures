@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4450.3154 5586.5 366.08353 111" width="366.08353" height="111">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -4 7 8" markerWidth="7" markerHeight="8" color="black">
+      <g>
+        <circle cx="-2.249999" cy="0" r="2.24999801151249" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="-2.4" x2="0" y2="2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="NegativeControls_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 2 8" markerWidth="2" markerHeight="8" color="#5ec962">
+      <g>
+        <line x1="0" y1="2.4" x2="0" y2="-2.4" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-611.1111" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 19:42:36 +0000</metadata>
+  <g id="Delay" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Delay</title>
+    <g id="Delay_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_6">
+        <g id="Graphic_9">
+          <path d="M 4666 5606 L 4702 5624 L 4666 5642 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_8">
+          <line x1="4712" y1="5624" x2="4720" y2="5624" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_7">
+          <line x1="4648" y1="5624" x2="4666" y2="5624" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_25">
+        <line x1="4733.5" y1="5666.8" x2="4733.5" y2="5621.2" marker-end="url(#NegativeControls_Marker)" marker-start="url(#NegativeControls_Marker_2)" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(4735.5406 5631)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="18" font-style="italic" font-weight="400" fill="#5ec962" x="0" y="17">fan-out</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <line x1="4648" y1="5669.5" x2="4648" y2="5624.5" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Group_32">
+        <g id="Graphic_36">
+          <path d="M 4532.5 5662 L 4541.5 5662 C 4564 5660.2 4566.25 5654.8 4577.5 5644 C 4566.25 5633.2 4564 5627.8 4541.5 5626 L 4532.5 5626 C 4534.75 5633.2 4535.875 5634.1 4537 5644 C 4535.875 5653.9 4534.75 5654.8 4532.5 5662" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_35">
+          <line x1="4577.5" y1="5644" x2="4595.5" y2="5644" stroke="#0044b4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_34">
+          <line x1="4514.5" y1="5635" x2="4535.5014" y2="5635.164" stroke="#0044b4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_33">
+          <line x1="4514.5" y1="5653" x2="4535.4165" y2="5653.154" stroke="#0044b4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_27">
+        <g id="Graphic_31">
+          <path d="M 4666 5696.5 L 4688.5 5696.5 C 4699.75 5696.5 4711 5692 4711 5678.5 C 4711 5665 4699.75 5660.5 4688.5 5660.5 L 4666 5660.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_30">
+          <line x1="4711" y1="5678.5" x2="4729" y2="5678.5" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_29">
+          <line x1="4666" y1="5687.5" x2="4648" y2="5687.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_28">
+          <line x1="4666" y1="5669.5" x2="4648" y2="5669.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_37">
+        <line x1="4595.5" y1="5644" x2="4648" y2="5644" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(4455.3154 5603)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-style="italic" font-weight="400" fill="#0044b4" x="5.418457" y="17">gate</tspan>
+          <tspan font-family="Menlo" font-size="18" font-style="italic" font-weight="400" fill="#0044b4" x="0" y="38">delay</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(4588.8154 5591.5)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="18" font-style="italic" font-weight="400" fill="#ffab32" x="5.418457" y="17">wire</tspan>
+          <tspan font-family="Menlo" font-size="18" font-style="italic" font-weight="400" fill="#ffab32" x="0" y="38">delay</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

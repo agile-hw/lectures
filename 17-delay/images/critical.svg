@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="4540.873 5908.9176 462.62694 359.2952" width="462.62694" height="359.2952">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <circle cx="-1.7999992" cy="0" r="1.79999840920999" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="14" panose-1="2 11 6 9 3 3 4 11 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="-785.7143" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-style="italic" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Italic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-05 20:04:17 +0000</metadata>
+  <g id="critical" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>critical</title>
+    <g id="critical_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_146">
+        <g id="Graphic_150">
+          <path d="M 4740.5 6235.3034 L 4749.5 6235.3034 C 4772 6233.5034 4774.25 6228.1034 4785.5 6217.3034 C 4774.25 6206.5034 4772 6201.1034 4749.5 6199.3034 L 4740.5 6199.3034 C 4742.75 6206.5034 4743.875 6207.4034 4745 6217.3034 C 4743.875 6227.2034 4742.75 6228.1034 4740.5 6235.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_149">
+          <line x1="4786.5" y1="6217.3034" x2="4803.5" y2="6217.3034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_148">
+          <line x1="4722.5" y1="6208.3034" x2="4743.5014" y2="6208.4674" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_147">
+          <line x1="4722.5" y1="6226.3034" x2="4743.4165" y2="6226.457" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_141">
+        <g id="Graphic_145">
+          <path d="M 4573.5 6163.3034 L 4596 6163.3034 C 4607.25 6163.3034 4618.5 6158.8034 4618.5 6145.3034 C 4618.5 6131.8034 4607.25 6127.3034 4596 6127.3034 L 4573.5 6127.3034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_144">
+          <line x1="4618.5" y1="6145.3034" x2="4636.5" y2="6145.3034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_143">
+          <line x1="4573.5" y1="6154.3034" x2="4555.5" y2="6154.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_142">
+          <line x1="4573.5" y1="6136.3034" x2="4555.5" y2="6136.3034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_135">
+        <g id="Graphic_140">
+          <path d="M 4907.5 6226.8034 L 4916.5 6226.8034 C 4939 6225.0034 4941.25 6219.6034 4952.5 6208.8034 C 4941.25 6198.0034 4939 6192.6034 4916.5 6190.8034 L 4907.5 6190.8034 C 4909.75 6198.0034 4910.875 6198.9034 4912 6208.8034 C 4910.875 6218.7034 4909.75 6219.6034 4907.5 6226.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_139">
+          <line x1="4953.5" y1="6208.8034" x2="4970.5" y2="6208.8034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_138">
+          <line x1="4889.5" y1="6199.8034" x2="4910.5014" y2="6199.9674" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_137">
+          <line x1="4889.5" y1="6217.8034" x2="4910.4165" y2="6217.957" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_136">
+          <path d="M 4898.5 6190.8034 C 4899.5 6195.803 4901 6201.637 4901.5 6205.8034 C 4902 6209.97 4902 6212.304 4901.5 6215.8034 C 4901 6219.303 4899.5 6223.137 4898.5 6226.8034" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_130">
+        <g id="Graphic_134">
+          <path d="M 4573.5 6243.8034 L 4596 6243.8034 C 4607.25 6243.8034 4618.5 6239.3034 4618.5 6225.8034 C 4618.5 6212.3034 4607.25 6207.8034 4596 6207.8034 L 4573.5 6207.8034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_133">
+          <line x1="4626.7" y1="6225.8034" x2="4636.5" y2="6225.8034" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_132">
+          <line x1="4573.5" y1="6234.8034" x2="4555.5" y2="6234.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_131">
+          <line x1="4573.5" y1="6216.8034" x2="4555.5" y2="6216.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_125">
+        <g id="Graphic_129">
+          <path d="M 4740.5 6154.8034 L 4763 6154.8034 C 4774.25 6154.8034 4785.5 6150.3034 4785.5 6136.8034 C 4785.5 6123.3034 4774.25 6118.8034 4763 6118.8034 L 4740.5 6118.8034 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_128">
+          <line x1="4793.7" y1="6136.8034" x2="4803.5" y2="6136.8034" marker-start="url(#Ball_Marker)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Line_127">
+          <line x1="4740.5" y1="6145.8034" x2="4722.5" y2="6145.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_126">
+          <line x1="4740.5" y1="6127.8034" x2="4722.5" y2="6127.8034" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Line_124">
+        <path d="M 4636.5 6225.8034 L 4647.5 6225.8034 L 4711.5 6226.3034 L 4722.5 6226.3034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_123">
+        <path d="M 4803.5 6217.3034 L 4814.5 6217.3034 L 4878.5 6217.8034 L 4889.5 6217.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_122">
+        <path d="M 4636.5 6145.3034 L 4647.5 6145.3034 L 4711.5 6145.8034 L 4722.5 6145.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_121">
+        <path d="M 4722.5 6127.8034 L 4675.687 6127.8034 L 4675.687 6113.376 L 4555.5 6113.376" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_120">
+        <path d="M 4675.065 6145.519 L 4675.065 6156.519 L 4674.706 6203.321 L 4674.706 6208.3034 L 4722.5 6208.3034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_119">
+        <path d="M 4803.5 6136.8034 L 4846.2903 6136.8034 L 4846.2903 6199.8034 L 4889.5 6199.8034" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_118">
+        <circle cx="4675.2634" cy="6145.3034" r="3.00000479370517" fill="black"/>
+        <circle cx="4675.2634" cy="6145.3034" r="3.00000479370517" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_79">
+        <path d="M 4970.5 6208.258 L 4948.5 6208.258 L 4907.842 6218.296 L 4785.5 6216.667 L 4743.999 6226.507 L 4622.7144 6225.533 L 4573.873 6235.213" stroke="#4b88fd" stroke-opacity=".507543" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Line_78">
+        <line x1="4573.873" y1="6217.078" x2="4622.7144" y2="6225.533" stroke="#4b88fd" stroke-opacity=".507543" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+      </g>
+      <g id="Graphic_151">
+        <text transform="translate(4872.521 6160.5)" fill="#4b88fd">
+          <tspan font-family="Menlo" font-size="14" font-style="italic" font-weight="400" fill="#4b88fd" x="0" y="13">critical path</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
