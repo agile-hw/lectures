@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="768 807.5382 313.9 269.4618" width="313.9" height="269.4618">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="13" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-19 20:10:55 +0000</metadata>
+  <g id="complexity-difficulty" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>complexity-difficulty</title>
+    <g id="complexity-difficulty_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_47">
+        <line x1="795" y1="1051" x2="1056.1" y2="1051" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_46">
+        <line x1="795" y1="1051" x2="795" y2="835.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(773 1040.3645) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="13" font-weight="400" fill="black" x="0" y="12">Implementation Difficulty</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(816.1924 1057)" fill="black">
+          <tspan font-family="Menlo" font-size="13" font-weight="400" fill="black" x="0" y="12">Complexity of Transformation</tspan>
+        </text>
+      </g>
+      <g id="Line_48">
+        <path d="M 795 1017.5 C 798 1017.5 826.3547 913.8163 826.3547 913.8163 C 826.3547 913.8163 871 845 871 845 C 871 845 1040.3914 824.0382 1040.3389 824.0382" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_50">
+        <path d="M 795 961.5 C 797.5 961.5 861.2522 943.0832 861.2522 943.0832 C 861.2522 943.0832 916 867 916 867 C 916 867 1040.3389 840.5305 1040.3389 840.5305" stroke="#86bafd" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_51">
+        <path d="M 861.2522 943.0832 C 863.5 942.5 1042.7267 893.9061 1040.3389 893.9061" stroke="#86bafd" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="20.0,20.0" stroke-width="5"/>
+      </g>
+      <g id="Graphic_52">
+        <text transform="translate(919.3622 867.9044) rotate(-11)" fill="#86bafd">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#86bafd" x="0" y="15">generator</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(932.1406 916.5)" fill="#86bafd">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#86bafd" x="28.898438" y="15">+ custom</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#86bafd" x="0" y="34">transformation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(793 819)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#5ec962" x="9.632812" y="15">static </tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#5ec962" x="9.632812" y="34">design</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
