@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="824 924.25 357.05466 281.5" width="357.05466" height="281.5">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#a5a5a5">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-20 15:05:52 +0000</metadata>
+  <g id="firrtl_types" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>firrtl types</title>
+    <g id="firrtl_types_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <path d="M 932.5 925.75 L 1037.5 925.75 C 1043.0228 925.75 1047.5 930.2272 1047.5 935.75 L 1047.5 955.75 C 1047.5 961.2728 1043.0228 965.75 1037.5 965.75 L 932.5 965.75 C 926.9772 965.75 922.5 961.2728 922.5 955.75 L 922.5 935.75 C 922.5 930.2272 926.9772 925.75 932.5 925.75 Z" stroke="#ffd479" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(927.5 936.25)" fill="#ffd479">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#ffd479" x="23.785156" y="15">Circuit</tspan>
+        </text>
+      </g>
+      <g id="Line_2">
+        <line x1="985" y1="967.25" x2="985" y2="987.85" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 932.5 1005.25 L 1037.5 1005.25 C 1043.0228 1005.25 1047.5 1009.7272 1047.5 1015.25 L 1047.5 1035.25 C 1047.5 1040.7728 1043.0228 1045.25 1037.5 1045.25 L 932.5 1045.25 C 926.9772 1045.25 922.5 1040.7728 922.5 1035.25 L 922.5 1015.25 C 922.5 1009.7272 926.9772 1005.25 932.5 1005.25 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(927.5 1015.75)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#ffab32" x="28.601562" y="15">Module</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 835.5 1084.75 L 940.5 1084.75 C 946.0228 1084.75 950.5 1089.2272 950.5 1094.75 L 950.5 1114.75 C 950.5 1120.2728 946.0228 1124.75 940.5 1124.75 L 835.5 1124.75 C 829.9772 1124.75 825.5 1120.2728 825.5 1114.75 L 825.5 1094.75 C 825.5 1089.2272 829.9772 1084.75 835.5 1084.75 Z" stroke="#9c7fd5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(830.5 1095.25)" fill="#9c7fd5">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#9c7fd5" x="38.234375" y="15">Port</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 835.5 1164.25 L 940.5 1164.25 C 946.0228 1164.25 950.5 1168.7272 950.5 1174.25 L 950.5 1194.25 C 950.5 1199.7728 946.0228 1204.25 940.5 1204.25 L 835.5 1204.25 C 829.9772 1204.25 825.5 1199.7728 825.5 1194.25 L 825.5 1174.25 C 825.5 1168.7272 829.9772 1164.25 835.5 1164.25 Z" stroke="#5ec962" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(830.5 1174.75)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#5ec962" x="33.41797" y="15">Types</tspan>
+        </text>
+      </g>
+      <g id="Line_10">
+        <line x1="1009.2044" y1="1046.75" x2="1038.4081" y2="1072.6907" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_11">
+        <line x1="958.7673" y1="1046.75" x2="926.5301" y2="1073.1712" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_12">
+        <line x1="888" y1="1126.25" x2="888" y2="1146.85" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_13">
+        <line x1="1074.5" y1="1126.25" x2="1074.5" y2="1146.85" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_14">
+        <line x1="1010.5" y1="1184.25" x2="967.9" y2="1184.25" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 1022 1164.25 L 1127 1164.25 C 1132.5228 1164.25 1137 1168.7272 1137 1174.25 L 1137 1194.25 C 1137 1199.7728 1132.5228 1204.25 1127 1204.25 L 1022 1204.25 C 1016.4772 1204.25 1012 1199.7728 1012 1194.25 L 1012 1174.25 C 1012 1168.7272 1016.4772 1164.25 1022 1164.25 Z" stroke="#86bafd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(1017 1174.75)" fill="#86bafd">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#86bafd" x="9.335938" y="15">Expression</tspan>
+        </text>
+      </g>
+      <g id="Line_16">
+        <line x1="1024.0629" y1="1126.25" x2="953.0637" y2="1156.5151" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 1138.5 1183.275 C 1147.0235 1182.0003 1154.5246 1180.016 1159.5 1177 C 1180.1813 1164.4638 1171.5809 1137.946 1147.5 1140 C 1138.859 1140.737 1127.0197 1146.6428 1115.39 1153.913" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 1022 1084.75 L 1127 1084.75 C 1132.5228 1084.75 1137 1089.2272 1137 1094.75 L 1137 1114.75 C 1137 1120.2728 1132.5228 1124.75 1127 1124.75 L 1022 1124.75 C 1016.4772 1124.75 1012 1120.2728 1012 1114.75 L 1012 1094.75 C 1012 1089.2272 1016.4772 1084.75 1022 1084.75 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(1017 1095.25)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#0044b4" x="14.152344" y="15">Statement</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <path d="M 1138.5 1103.775 C 1147.0235 1102.5003 1154.5246 1100.5159 1159.5 1097.5 C 1180.1813 1084.9638 1171.5809 1058.446 1147.5 1060.5 C 1138.859 1061.237 1127.0197 1067.1428 1115.39 1074.4131" marker-end="url(#FilledArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

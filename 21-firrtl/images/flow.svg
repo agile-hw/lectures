@@ -23,7 +23,7 @@
       </font-face-src>
     </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-19 20:16:57 +0000</metadata>
+  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-20 14:17:21 +0000</metadata>
   <g id="Canvas_45" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
     <title>Canvas 45</title>
     <g id="Canvas_45_Layer_1">
@@ -41,7 +41,7 @@
         <path d="M 1103.5 871.1074 L 1264 871.1074 C 1269.5228 871.1074 1274 875.5846 1274 881.1074 L 1274 913.6074 C 1274 919.1303 1269.5228 923.6074 1264 923.6074 L 1103.5 923.6074 C 1097.9772 923.6074 1093.5 919.1303 1093.5 913.6074 L 1093.5 881.1074 C 1093.5 875.5846 1097.9772 871.1074 1103.5 871.1074 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
         <text transform="translate(1098.5 878.3574)" fill="black">
           <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="13.003906" y="15">Verilog Backend </tspan>
-          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="22.63672" y="34">(from firrtl)</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="black" x="8.1875" y="34">(firrtl library)</tspan>
         </text>
       </g>
       <g id="Group_11">
