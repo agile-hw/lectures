@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="5155 5647.972 857.77 592.02826" width="857.77" height="592.02826">
+  <defs>
+    <font-face font-family="Menlo" font-size="27" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#2dbf22">
+      <g>
+        <circle cx="-1.1785709" cy="0" r="1.17857038698273" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.2\n2022-01-04 04:51:38 +0000</metadata>
+  <g id="Canvas_49" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill-opacity="1" fill="none">
+    <title>Canvas 49</title>
+    <g id="Canvas_49_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_22">
+        <text transform="translate(5160 6204)" fill="black">
+          <tspan font-family="Menlo" font-size="27" font-weight="700" fill="black" x="0" y="25">Make the Tools do the Work</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(5698.918 5860)" fill="black">
+          <tspan font-family="Menlo" font-size="27" font-weight="700" fill="black" x="0" y="25">Design for Reuse</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <text transform="translate(5650.152 6204)" fill="black">
+          <tspan font-family="Menlo" font-size="27" font-weight="700" fill="black" x="0" y="25">Design for Readability</tspan>
+        </text>
+      </g>
+      <g id="Group_30">
+        <g id="Graphic_19">
+          <circle cx="5757.4116" cy="6129.298" r="39.4116951272933" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        </g>
+        <g id="Graphic_18">
+          <circle cx="5900.51" cy="6129.298" r="39.4116951272935" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+        </g>
+        <g id="Line_17">
+          <path d="M 5794.1734 6104.3646 C 5804.3365 6099.968 5816.107 6096.764 5828.829 6096.764 C 5841.616 6096.764 5853.468 6100.001 5863.7025 6104.432" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7"/>
+        </g>
+        <g id="Line_16">
+          <path d="M 5718.7605 6118.5196 C 5718.7605 6118.5196 5730.572 6057.689 5746.534 6031.761 C 5762.495 6005.833 5775.1006 6027 5775.1006 6027" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7"/>
+        </g>
+        <g id="Line_15">
+          <path d="M 5939.237 6118.5196 C 5939.237 6118.5196 5927.425 6057.689 5911.464 6031.761 C 5895.502 6005.833 5882.897 6027 5882.897 6027" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="miter" stroke-width="7"/>
+        </g>
+      </g>
+      <g id="Group_31">
+        <g id="Graphic_14">
+          <path d="M 5401.6865 6156.605 L 5349.6865 6100.105 L 5297.6865 6156.605 Z" fill="#2dbf22"/>
+        </g>
+        <g id="Line_13">
+          <line x1="5256.1865" y1="6111.605" x2="5516.6396" y2="6039.105" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="miter" stroke-width="10"/>
+        </g>
+        <g id="Graphic_12">
+          <path d="M 5311.067 6076.355 L 5254.368 6092.613 L 5255.026 6052.1115 L 5289.0457 6042.3566 Z" fill="#2dbf22"/>
+        </g>
+        <g id="Graphic_11">
+          <circle cx="5270.778" cy="6045.9636" r="6.17274155138688" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+      <g id="Group_27">
+        <g id="Group_3">
+          <g id="Graphic_8">
+            <path d="M 5767.3185 5795.54 L 5828.9666 5795.54 C 5859.7906 5795.54 5890.615 5783.2106 5890.615 5746.222 C 5890.615 5709.233 5859.7906 5696.903 5828.9666 5696.903 L 5767.3185 5696.903 Z" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          </g>
+          <g id="Line_7">
+            <line x1="5910.615" y1="5746.222" x2="5939.922" y2="5746.222" marker-start="url(#Ball_Marker)" stroke="#2dbf22" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7"/>
+          </g>
+          <g id="Line_6">
+            <line x1="5718" y1="5770.881" x2="5767.3185" y2="5770.881" stroke="#2dbf22" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7"/>
+          </g>
+          <g id="Line_5">
+            <line x1="5718" y1="5721.5625" x2="5767.3185" y2="5721.5625" stroke="#2dbf22" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7"/>
+          </g>
+          <g id="Line_4">
+            <line x1="5718" y1="5746.222" x2="5767.3185" y2="5746.222" stroke="#2dbf22" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="7"/>
+          </g>
+        </g>
+        <g id="Graphic_2">
+          <path d="M 5738 5677 L 5919.922 5677 C 5930.9676 5677 5939.922 5685.954 5939.922 5697 L 5939.922 5795.4435 C 5939.922 5806.489 5930.9676 5815.4435 5919.922 5815.4435 L 5738 5815.4435 C 5726.954 5815.4435 5718 5806.489 5718 5795.4435 L 5718 5697 C 5718 5685.954 5726.954 5677 5738 5677 Z" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="18.0,18.0" stroke-width="9"/>
+        </g>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(5257.532 5860)" fill="black">
+          <tspan font-family="Menlo" font-size="27" font-weight="700" fill="black" x="0" y="25">Close the Loop</tspan>
+        </text>
+      </g>
+      <g id="Group_28">
+        <g id="Graphic_25">
+          <path d="M 5364.676 5835.972 C 5315.1087 5835.972 5274.926 5795.789 5274.926 5746.222 C 5274.926 5696.654 5315.1087 5656.472 5364.676 5656.472 C 5414.244 5656.472 5454.426 5696.654 5454.426 5746.222" stroke="#2dbf22" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+        </g>
+        <g id="Graphic_24">
+          <path d="M 5424.926 5738.722 L 5455.163 5771.575 L 5485.4 5738.722 Z" fill="#2dbf22"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
