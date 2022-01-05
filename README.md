@@ -2,7 +2,7 @@
 
 There are the released lectures from a course at UC Santa Cruz ([CSE 293](https://classes.soe.ucsc.edu/cse293/Spring21/)). They are Jupyter notebooks, so one can execute code and see the result directly in the slides.
 
-You can run the notebooks without installing anything by using Binder: [click here](https://mybinder.org/v2/gh/agile-hw/lectures/HEAD)
+You can run the notebooks without installing anything by using Binder: [click here](https://mybinder.org/v2/gh/agile-hw/lectures/HEAD?urlpath=tree)
 
 To get the best layout, we use splitcell and RISE. To set this up locally, consult `install.sh`
 
