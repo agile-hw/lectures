@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="4740.1323 5699 392.86768 253.5" width="392.86768" height="253.5">
+  <defs>
+    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Menlo" font-size="22" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Menlo-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-01-31 16:35:44 +0000</metadata>
+  <g id="filter" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>filter</title>
+    <g id="filter_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_28">
+        <path d="M 4911.266 5882.5 L 5076 5882.5 C 5078.7614 5882.5 5081 5884.7386 5081 5887.5 L 5081 5946 C 5081 5948.7614 5078.7614 5951 5076 5951 L 4911.266 5951 C 4908.5044 5951 4906.266 5948.7614 4906.266 5946 L 4906.266 5887.5 C 4906.266 5884.7386 4908.5044 5882.5 4911.266 5882.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 4911.266 5730 L 5126.5 5730 C 5129.2614 5730 5131.5 5732.2386 5131.5 5735 L 5131.5 5793.5 C 5131.5 5796.2614 5129.2614 5798.5 5126.5 5798.5 L 4911.266 5798.5 C 4908.5044 5798.5 4906.266 5796.2614 4906.266 5793.5 L 4906.266 5735 C 4906.266 5732.2386 4908.5044 5730 4911.266 5730 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 4920.5 5739.5 L 4960.5 5739.5 C 4963.2614 5739.5 4965.5 5741.7386 4965.5 5744.5 L 4965.5 5784.5 C 4965.5 5787.2614 4963.2614 5789.5 4960.5 5789.5 L 4920.5 5789.5 C 4917.7386 5789.5 4915.5 5787.2614 4915.5 5784.5 L 4915.5 5744.5 C 4915.5 5741.7386 4917.7386 5739.5 4920.5 5739.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 4920.5 5891.5 L 4960.5 5891.5 C 4963.2614 5891.5 4965.5 5893.7386 4965.5 5896.5 L 4965.5 5936.5 C 4965.5 5939.2614 4963.2614 5941.5 4960.5 5941.5 L 4920.5 5941.5 C 4917.7386 5941.5 4915.5 5939.2614 4915.5 5936.5 L 4915.5 5896.5 C 4915.5 5893.7386 4917.7386 5891.5 4920.5 5891.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 4940.5 5821.5 L 4940.5 5821.5 C 4950.9934 5821.5 4959.5 5830.0066 4959.5 5840.5 L 4959.5 5840.5 C 4959.5 5850.9934 4950.9934 5859.5 4940.5 5859.5 L 4940.5 5859.5 C 4930.0066 5859.5 4921.5 5850.9934 4921.5 5840.5 L 4921.5 5840.5 C 4921.5 5830.0066 4930.0066 5821.5 4940.5 5821.5 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(4926.5 5831)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(4811.7554 5754)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">input</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(4795.5 5830)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#4f8f00" x="0" y="17">function</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(4806.337 5906)" fill="#ffab32">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#ffab32" x="0" y="17">output</tspan>
+        </text>
+      </g>
+      <g id="Line_20">
+        <line x1="4940.5" y1="5791" x2="4940.5" y2="5807.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_19">
+        <line x1="4940.5" y1="5860.5" x2="4940.5" y2="5877.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 4970.5 5739.5 L 5010.5 5739.5 C 5013.2614 5739.5 5015.5 5741.7386 5015.5 5744.5 L 5015.5 5784.5 C 5015.5 5787.2614 5013.2614 5789.5 5010.5 5789.5 L 4970.5 5789.5 C 4967.7386 5789.5 4965.5 5787.2614 4965.5 5784.5 L 4965.5 5744.5 C 4965.5 5741.7386 4967.7386 5739.5 4970.5 5739.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_16">
+        <path d="M 4990.5 5821.5 L 4990.5 5821.5 C 5000.9934 5821.5 5009.5 5830.0066 5009.5 5840.5 L 5009.5 5840.5 C 5009.5 5850.9934 5000.9934 5859.5 4990.5 5859.5 L 4990.5 5859.5 C 4980.0066 5859.5 4971.5 5850.9934 4971.5 5840.5 L 4971.5 5840.5 C 4971.5 5830.0066 4980.0066 5821.5 4990.5 5821.5 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(4976.5 5831)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <line x1="4990.5" y1="5791" x2="4990.5" y2="5807.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 5076.897 5739.5 L 5116.897 5739.5 C 5119.6584 5739.5 5121.897 5741.7386 5121.897 5744.5 L 5121.897 5784.5 C 5121.897 5787.2614 5119.6584 5789.5 5116.897 5789.5 L 5076.897 5789.5 C 5074.1355 5789.5 5071.897 5787.2614 5071.897 5784.5 L 5071.897 5744.5 C 5071.897 5741.7386 5074.1355 5739.5 5076.897 5739.5 Z" stroke="#0044b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 5026.529 5891.5 L 5066.529 5891.5 C 5069.2906 5891.5 5071.529 5893.7386 5071.529 5896.5 L 5071.529 5936.5 C 5071.529 5939.2614 5069.2906 5941.5 5066.529 5941.5 L 5026.529 5941.5 C 5023.768 5941.5 5021.529 5939.2614 5021.529 5936.5 L 5021.529 5896.5 C 5021.529 5893.7386 5023.768 5891.5 5026.529 5891.5 Z" stroke="#ffab32" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 5096.897 5821.5 L 5096.897 5821.5 C 5107.3904 5821.5 5115.897 5830.0066 5115.897 5840.5 L 5115.897 5840.5 C 5115.897 5850.9934 5107.3904 5859.5 5096.897 5859.5 L 5096.897 5859.5 C 5086.4036 5859.5 5077.897 5850.9934 5077.897 5840.5 L 5077.897 5840.5 C 5077.897 5830.0066 5086.4036 5821.5 5096.897 5821.5 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+        <text transform="translate(5082.897 5831)" fill="#4f8f00">
+          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#4f8f00" x="9.183594" y="15">f</tspan>
+        </text>
+      </g>
+      <g id="Line_10">
+        <line x1="5096.897" y1="5791" x2="5096.897" y2="5807.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_9">
+        <line x1="5085.847" y1="5857.173" x2="5071.218" y2="5879.247" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_8">
+        <circle cx="5053.9485" cy="5764.5" r="3.00000479370565" fill="#999"/>
+        <circle cx="5053.9485" cy="5764.5" r="3.00000479370565" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="5033.4485" cy="5764.5" r="3.00000479370541" fill="#999"/>
+        <circle cx="5033.4485" cy="5764.5" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="5053.9485" cy="5840.5" r="3.00000479370541" fill="#999"/>
+        <circle cx="5053.9485" cy="5840.5" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5">
+        <circle cx="5033.4485" cy="5840.5" r="3.00000479370517" fill="#999"/>
+        <circle cx="5033.4485" cy="5840.5" r="3.00000479370517" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="5003.5806" cy="5916.5" r="3.00000479370529" fill="#999"/>
+        <circle cx="5003.5806" cy="5916.5" r="3.00000479370529" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3">
+        <circle cx="4983.0806" cy="5916.5" r="3.00000479370553" fill="#999"/>
+        <circle cx="4983.0806" cy="5916.5" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <text transform="translate(4745.1323 5704)" fill="black">
+          <tspan font-family="Menlo" font-size="22" font-weight="700" fill="black" x="0" y="20">filter</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
