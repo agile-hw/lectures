@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="4362.3623 5202.0265 684.8523 395.87435" width="684.8523" height="395.87435">
+  <defs>
+    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Menlo-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-02-07 17:13:14 +0000</metadata>
+  <g id="torus" fill="none" stroke-dasharray="none" fill-opacity="1" stroke="none" stroke-opacity="1">
+    <title>torus</title>
+    <g id="torus_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_45">
+        <circle cx="4797" cy="5279.125" r="3.00000479370553" fill="#999"/>
+        <circle cx="4797" cy="5279.125" r="3.00000479370553" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_44">
+        <circle cx="4776.5" cy="5279.125" r="3.00000479370529" fill="#999"/>
+        <circle cx="4776.5" cy="5279.125" r="3.00000479370529" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_43">
+        <path d="M 4537 5279.125 L 4537 5279.125 C 4537 5290.24 4527.99 5299.25 4516.875 5299.25 L 4439.125 5299.25 C 4428.0103 5299.25 4419 5290.24 4419 5279.125 L 4419 5279.125 C 4419 5268.01 4428.0103 5259 4439.125 5259 L 4516.875 5259 C 4527.99 5259 4537 5268.01 4537 5279.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(4418.397 5268.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <path d="M 4715.1846 5279.125 L 4715.1846 5279.125 C 4715.1846 5290.24 4706.1743 5299.25 4695.0596 5299.25 L 4617.3096 5299.25 C 4606.195 5299.25 4597.1846 5290.24 4597.1846 5279.125 L 4597.1846 5279.125 C 4597.1846 5268.01 4606.195 5259 4617.3096 5259 L 4695.0596 5259 C 4706.1743 5259 4715.1846 5268.01 4715.1846 5279.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(4596.5815 5268.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <path d="M 4997 5279.125 L 4997 5279.125 C 4997 5290.24 4987.99 5299.25 4976.875 5299.25 L 4899.125 5299.25 C 4888.01 5299.25 4879 5290.24 4879 5279.125 L 4879 5279.125 C 4879 5268.01 4888.01 5259 4899.125 5259 L 4976.875 5259 C 4987.99 5259 4997 5268.01 4997 5279.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(4878.397 5268.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="4733.6876" y1="5279.125" x2="4742.1" y2="5279.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_36">
+        <line x1="4833.9" y1="5279.125" x2="4860.497" y2="5279.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_35">
+        <path d="M 5015.272 5267.437 C 5040.4095 5262.193 5056.1057 5256.062 5031 5251 C 4974.6223 5239.6324 4922.865 5238.717 4739 5239 C 4555.135 5239.283 4455.9426 5240.6324 4382 5252 C 4345.634 5257.591 4368.2594 5264.2434 4400.647 5269.561" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_34">
+        <line x1="4480" y1="5329.1" x2="4480" y2="5312.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_33">
+        <line x1="4655.6846" y1="5329.1" x2="4655.6846" y2="5312.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_32">
+        <line x1="4937.5" y1="5329.1" x2="4937.5" y2="5312.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_31">
+        <line x1="4555.503" y1="5279.125" x2="4578.6815" y2="5279.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_60">
+        <circle cx="4798" cy="5361.125" r="3.00000479370541" fill="#999"/>
+        <circle cx="4798" cy="5361.125" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_59">
+        <circle cx="4777.5" cy="5361.125" r="3.00000479370577" fill="#999"/>
+        <circle cx="4777.5" cy="5361.125" r="3.00000479370577" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_58">
+        <path d="M 4538 5361.125 L 4538 5361.125 C 4538 5372.24 4528.99 5381.25 4517.875 5381.25 L 4440.125 5381.25 C 4429.0103 5381.25 4420 5372.24 4420 5361.125 L 4420 5361.125 C 4420 5350.01 4429.0103 5341 4440.125 5341 L 4517.875 5341 C 4528.99 5341 4538 5350.01 4538 5361.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_57">
+        <text transform="translate(4419.397 5350.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_56">
+        <path d="M 4716.1846 5361.125 L 4716.1846 5361.125 C 4716.1846 5372.24 4707.1743 5381.25 4696.0596 5381.25 L 4618.3096 5381.25 C 4607.195 5381.25 4598.1846 5372.24 4598.1846 5361.125 L 4598.1846 5361.125 C 4598.1846 5350.01 4607.195 5341 4618.3096 5341 L 4696.0596 5341 C 4707.1743 5341 4716.1846 5350.01 4716.1846 5361.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_55">
+        <text transform="translate(4597.5815 5350.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <path d="M 4998 5361.125 L 4998 5361.125 C 4998 5372.24 4988.99 5381.25 4977.875 5381.25 L 4900.125 5381.25 C 4889.01 5381.25 4880 5372.24 4880 5361.125 L 4880 5361.125 C 4880 5350.01 4889.01 5341 4900.125 5341 L 4977.875 5341 C 4988.99 5341 4998 5350.01 4998 5361.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(4879.397 5350.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="4734.6876" y1="5361.125" x2="4743.1" y2="5361.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_51">
+        <line x1="4834.9" y1="5361.125" x2="4861.497" y2="5361.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_50">
+        <path d="M 5016.272 5349.437 C 5041.4095 5344.193 5057.1057 5338.062 5032 5333 C 4975.6223 5321.6324 4923.865 5320.717 4740 5321 C 4556.135 5321.283 4456.9426 5322.6324 4383 5334 C 4346.634 5339.591 4369.2594 5346.2434 4401.647 5351.561" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_49">
+        <line x1="4479" y1="5411.1" x2="4479" y2="5394.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_48">
+        <line x1="4656.6846" y1="5411.1" x2="4656.6846" y2="5394.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_47">
+        <line x1="4937.5" y1="5411.1" x2="4937.5" y2="5394.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_46">
+        <line x1="4556.503" y1="5361.125" x2="4579.6815" y2="5361.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_72">
+        <circle cx="4799.5" cy="5529.125" r="3.00000479370529" fill="#999"/>
+        <circle cx="4799.5" cy="5529.125" r="3.00000479370529" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_71">
+        <circle cx="4779" cy="5529.125" r="3.00000479370493" fill="#999"/>
+        <circle cx="4779" cy="5529.125" r="3.00000479370493" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_70">
+        <path d="M 4539.5 5529.125 L 4539.5 5529.125 C 4539.5 5540.24 4530.49 5549.25 4519.375 5549.25 L 4441.625 5549.25 C 4430.5103 5549.25 4421.5 5540.24 4421.5 5529.125 L 4421.5 5529.125 C 4421.5 5518.01 4430.5103 5509 4441.625 5509 L 4519.375 5509 C 4530.49 5509 4539.5 5518.01 4539.5 5529.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_69">
+        <text transform="translate(4420.897 5518.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <path d="M 4717.6846 5529.125 L 4717.6846 5529.125 C 4717.6846 5540.24 4708.6743 5549.25 4697.5596 5549.25 L 4619.8096 5549.25 C 4608.695 5549.25 4599.6846 5540.24 4599.6846 5529.125 L 4599.6846 5529.125 C 4599.6846 5518.01 4608.695 5509 4619.8096 5509 L 4697.5596 5509 C 4708.6743 5509 4717.6846 5518.01 4717.6846 5529.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(4599.0815 5518.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <path d="M 4999.5 5529.125 L 4999.5 5529.125 C 4999.5 5540.24 4990.49 5549.25 4979.375 5549.25 L 4901.625 5549.25 C 4890.51 5549.25 4881.5 5540.24 4881.5 5529.125 L 4881.5 5529.125 C 4881.5 5518.01 4890.51 5509 4901.625 5509 L 4979.375 5509 C 4990.49 5509 4999.5 5518.01 4999.5 5529.125 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(4880.897 5518.625)" fill="#949ba1">
+          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#949ba1" x="0" y="17">TorusRouter</tspan>
+        </text>
+      </g>
+      <g id="Line_64">
+        <line x1="4736.1876" y1="5529.125" x2="4744.6" y2="5529.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_63">
+        <line x1="4836.4" y1="5529.125" x2="4862.997" y2="5529.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_62">
+        <path d="M 5017.772 5517.437 C 5042.9095 5512.193 5058.6057 5506.062 5033.5 5501 C 4977.1223 5489.6324 4925.365 5488.717 4741.5 5489 C 4557.635 5489.283 4458.4426 5490.6324 4384.5 5502 C 4348.134 5507.591 4370.7594 5514.2434 4403.147 5519.561" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_61">
+        <line x1="4558.003" y1="5529.125" x2="4581.1815" y2="5529.125" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_76">
+        <line x1="4478.5" y1="5496.1" x2="4478.5" y2="5479.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_75">
+        <line x1="4655.6846" y1="5496.1" x2="4655.6846" y2="5479.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_74">
+        <line x1="4937.5" y1="5496.1" x2="4937.5" y2="5479.15" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_78">
+        <circle cx="4656.1846" cy="5454.125" r="3.00000479370529" fill="#999"/>
+        <circle cx="4656.1846" cy="5454.125" r="3.00000479370529" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_77">
+        <circle cx="4656.1846" cy="5436.125" r="3.00000479370529" fill="#999"/>
+        <circle cx="4656.1846" cy="5436.125" r="3.00000479370529" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_80">
+        <circle cx="4479.5" cy="5454.125" r="3.00000479370517" fill="#999"/>
+        <circle cx="4479.5" cy="5454.125" r="3.00000479370517" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_79">
+        <circle cx="4479.5" cy="5436.125" r="3.00000479370517" fill="#999"/>
+        <circle cx="4479.5" cy="5436.125" r="3.00000479370517" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_82">
+        <circle cx="4938" cy="5454.125" r="3.00000479370541" fill="#999"/>
+        <circle cx="4938" cy="5454.125" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_81">
+        <circle cx="4938" cy="5436.125" r="3.00000479370541" fill="#999"/>
+        <circle cx="4938" cy="5436.125" r="3.00000479370541" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_83">
+        <path d="M 4953.707 5561.99 C 4963.49 5581.696 4977.1265 5599.4137 4989 5579.5 C 5010.3895 5543.6265 5017.133 5501.94 5016 5402.5 C 5014.867 5303.06 5007.098 5263.453 4985 5228.5 C 4972.796 5209.196 4959.736 5226.656 4950.4886 5246.1596" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_84">
+        <path d="M 4670.9115 5556.221 C 4682.9934 5579.455 4701.589 5605.409 4715.1846 5579.5 C 4736.999 5537.929 4738.659 5487.526 4735.6846 5382.3886 C 4732.71 5277.251 4727.2073 5237.6436 4704.6846 5208.3886 C 4690.192 5189.564 4674.269 5224.254 4664.757 5251.383" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_85">
+        <path d="M 4494.828 5561.877 C 4507.146 5585.996 4524.9457 5610.884 4538.0586 5587.5935 C 4560.173 5548.315 4561.5333 5495.62 4558.5586 5390.482 C 4555.584 5285.3443 4550.3813 5248.03 4527.5586 5216.482 C 4514.242 5198.0743 4499.593 5222.475 4489.7 5245.9946" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
