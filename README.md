@@ -9,5 +9,6 @@ To get the best layout, we use splitcell and RISE. To set this up locally, consu
 
 ### Acknowledgements
 
-`resource/chisel_deps.sc` and `binder` configs are from the [Chisel bootcamp](https://github.com/freechipsproject/chisel-bootcamp)
-`environment.yml` for Jupyter Notebook slideshows is from [RISE](https://github.com/binder-examples/jupyter-rise)
+* `resource/chisel_deps.sc` and `binder` configs are from the [Chisel bootcamp](https://github.com/freechipsproject/chisel-bootcamp)
+* `environment.yml` for Jupyter Notebook slideshows is from [RISE](https://github.com/binder-examples/jupyter-rise)
+* Formal Verification lecture (`22-formal`) was contributed by [Kevin Laeufer](https://github.com/ekiwi)
