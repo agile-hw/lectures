@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="630 736.1531 344 328.6507" width="344" height="328.6507">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="630 736.1531 344 328.6507" width="344" height="328.6507">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
       <g>
@@ -23,8 +23,8 @@
       </g>
     </marker>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-05-08 00:18:48 +0000</metadata>
-  <g id="pareto" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" fill="none" stroke="none">
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-02-25 05:20:51 +0000</metadata>
+  <g id="pareto" fill="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none">
     <title>pareto</title>
     <g id="pareto_Layer_1">
       <title>Layer 1</title>
@@ -53,7 +53,7 @@
         <circle cx="741" cy="887" r="3.00000479370576" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_9">
-        <path d="M 696 802.1531 C 703.1974 845.1488 712.0526 866.2679 720 901.6746 C 727.9474 937.0813 729.0026 956.524 762.2007 965.7895 C 795.3988 975.055 865.2367 995.6298 908 998.8038" stroke="#86bafd" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
+        <path d="M 696 802.1531 C 703.1974 845.1488 712.0526 866.2679 720 901.6746 C 727.9474 937.0813 729.0026 956.524 762.2007 965.7895 C 795.3988 975.055 865.2367 995.6298 908 998.8038" stroke="#87bafd" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="miter" stroke-width="20"/>
       </g>
       <g id="Graphic_11">
         <circle cx="717.0493" cy="841.0625" r="3.00000479370577" fill="black"/>
@@ -197,7 +197,7 @@
       <g id="Graphic_45">
         <text transform="translate(782.5537 881.5)" fill="#0044b4">
           <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="0" y="15">better on</tspan>
-          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="4.816406" y="34">Metric Y</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#0044b4" x="4.816406" y="34">Metric X</tspan>
         </text>
       </g>
       <g id="Line_47">
@@ -210,9 +210,9 @@
         </text>
       </g>
       <g id="Graphic_50">
-        <text transform="translate(702.4465 940.4857) rotate(39)" fill="#86bafd">
-          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#86bafd" x="9.632812" y="15">pareto</tspan>
-          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#86bafd" x="0" y="34">frontier</tspan>
+        <text transform="translate(702.4465 940.4857) rotate(39)" fill="#87bafd">
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#87bafd" x="9.632812" y="15">pareto</tspan>
+          <tspan font-family="Menlo" font-size="16" font-weight="400" fill="#87bafd" x="0" y="34">frontier</tspan>
         </text>
       </g>
     </g>
