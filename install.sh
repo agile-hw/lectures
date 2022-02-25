@@ -18,3 +18,5 @@ rm almond
 rm coursier
 
 echo '\n\n\nTo enter virtualenv type: source chisel_nb_env/bin/activate'
+
+echo '\nIf going to use verification, install z3 on your platform (e.g. sudo apt install z3)'
