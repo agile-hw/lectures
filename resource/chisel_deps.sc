@@ -10,10 +10,9 @@ import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.5.+`
 import $ivy.`org.scalatest::scalatest:3.2.2`
 
 
-def removeAllComments(verStr: String): String = {
+def removeAllComments(verStr: String, delim: String = " // @"): String = {
     val lines = verStr.split('\n')
     def dropInfo(s: String): String = {
-        val delim = " // @"
         if (s.contains(delim)) s.split(delim).head else s
     }
     val commentsRemoved = lines map dropInfo
@@ -33,7 +32,7 @@ def getFirrtl(dut: => chisel3.RawModule): String = {
   val arguments = Array("--emission-options",
                         "disableMemRandomization,disableRegisterRandomization",
                         "--info-mode", "ignore")
-  removeAllComments((new chisel3.stage.ChiselStage).emitFirrtl(dut, arguments))
+  removeAllComments((new chisel3.stage.ChiselStage).emitFirrtl(dut, arguments), " @")
 }
 
 // Pretty prints the given firrtl AST
