@@ -3,7 +3,7 @@
 SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.2
 
 # Install coursier
-curl -Lo coursier https://git.io/coursier-cli
+curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier
 chmod +x coursier
 
 # Install almond

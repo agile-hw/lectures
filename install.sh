@@ -6,7 +6,7 @@ pip3 install jupyter_contrib_nbextensions
 pip3 install jupyter_nbextensions_configurator
 pip3 install RISE
 jupyter nbextension enable splitcell/splitcell
-curl -L -o coursier https://git.io/coursier-cli && chmod +x coursier
+curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier && chmod +x coursier
 SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.2
 ./coursier bootstrap -r jitpack \
     -i user -I user:sh.almond:scala-kernel-api_$SCALA_VERSION:$ALMOND_VERSION \
