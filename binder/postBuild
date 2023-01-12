@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCALA_VERSION=2.13.4 ALMOND_VERSION=0.11.1
+SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.2
 
 # Install coursier
 curl -Lo coursier https://git.io/coursier-cli
