@@ -2,10 +2,10 @@ interp.repositories() ::: List(
   coursierapi.MavenRepository.of("https://oss.sonatype.org/content/repositories/snapshots")
 )
 
-import $ivy.`edu.berkeley.cs::chisel3:3.5.5`
-import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.5.5`
-import $ivy.`edu.berkeley.cs::chiseltest:0.5.5`
-import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.5.5`
+import $ivy.`edu.berkeley.cs::chisel3:3.5.6`
+import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.5.6`
+import $ivy.`edu.berkeley.cs::chiseltest:0.5.6`
+import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.5.6`
 
 import $ivy.`org.scalatest::scalatest:3.2.10`
 
