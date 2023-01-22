@@ -9,7 +9,6 @@ import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.5.6`
 
 import $ivy.`org.scalatest::scalatest:3.2.10`
 
-
 def removeAllComments(verStr: String, delim: String = " // @"): String = {
     val lines = verStr.split('\n')
     def dropInfo(s: String): String = {
@@ -131,3 +130,102 @@ def visualizeHierarchy(gen: () => chisel3.RawModule): Unit = {
     html(instanceView)
 }
 
+
+def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
+    def vcdToWaveJSON(vcd: String): String = {
+        val lines = vcd.split('\n').toSeq.filter(_.nonEmpty)
+        val (header, rest) = lines.splitAt(lines.indexWhere(_.contains("scope")))
+        val (decsRaw, values) = rest.splitAt(rest.indexWhere(_.contains("dumpvars")))
+        val decs = decsRaw.tail.init.init
+        val (initRaw, changesRaw) = values.splitAt(values.indexWhere(_.contains("end")))
+        val init = initRaw.tail
+        val changes = changesRaw.tail
+    
+        def splitDec(decStr: String) = {
+            val tokens = decStr.strip.split(' ')
+            val width = tokens(2).toInt
+            assert(width <= 3)
+            val label = tokens(3)
+            val name = tokens(4)
+            (label, name)
+        }
+        val labelsToNames = decs.map(splitDec).toMap
+    
+        def splitUpdate(updateStr: String) = {
+            val value = updateStr.head.toString
+            val label = updateStr.tail
+            (label, value)
+        }
+        val labelsToValues = init.map(splitUpdate).toMap
+    
+        def grabCycleUpdates(cycleToProcess: Int,
+                         wavesSoFar: Map[String,String],
+                         changes: Seq[String]): Map[String,String] = {
+            def cycleDelimeter(str: String) = str.head == '#'
+            val nextCycleIndex = changes.indexWhere(cycleDelimeter, 1)
+            val (currCycle, rest) = if (nextCycleIndex != -1) changes.splitAt(nextCycleIndex)
+                                    else (changes, Seq())
+            val currCycleNum = changes.head.tail.toInt
+            val missingCycles = currCycleNum - cycleToProcess
+            val filler = "." * missingCycles
+            val changeList = currCycle.tail.map(splitUpdate).toMap
+            val cycleAppended = wavesSoFar.map{
+                case (label, valuesSoFar) => (label, valuesSoFar + filler + changeList.getOrElse(label, "."))
+            }
+            if (rest.nonEmpty) grabCycleUpdates(currCycleNum+1, cycleAppended, rest)
+            else cycleAppended
+        }
+        val waves = grabCycleUpdates(0, labelsToValues, changes)
+        def isMultibit(c: Char) = (c.toInt - '0'.toInt) > 1
+        def containsMultiBit(waveValues: String) = waveValues.exists(isMultibit)
+        def cleanMultibitInWave(wave: String) = {
+            val waveRetouched = wave map { c => if (isMultibit(c)) '=' else c }
+            val multibits = wave.filter(isMultibit)
+            val datas = multibits.map(c => s"\"$c\"").mkString(",")
+            (waveRetouched, datas)
+        }
+        
+        def signalOrder(sigName: String): String = sigName match {
+            case "clock" => "0"
+            case "reset" => "1"
+            case i if (i.startsWith("io")) => "2" + i
+            case s => s
+        }
+
+        def wavesToWaveJSON(labelsToNames: Map[String, String], waves: Map[String, String]) = {
+            val order = labelsToNames.toSeq.sortBy{case (label, name) => signalOrder(name)}
+            val body = order.map {
+                case (label, name) => if (containsMultiBit(waves(label))) {
+                    val (waveRetouched, datas) = cleanMultibitInWave(waves(label))
+                    s"""  { name: "$name", wave: "$waveRetouched", data: [$datas] },"""
+                } else s"""  { name: "$name", wave: "${waves(label)}" },"""
+            }
+            (Seq("{ signal: [") ++ body ++ Seq("], }")).mkString("\n")
+        }
+        wavesToWaveJSON(labelsToNames, waves)
+    }
+
+    // run simulation
+    val waveformDirName = "waveform_sim"
+    firrtl.FileUtils.deleteDirectoryHierarchy(waveformDirName)
+    val simAnnos = Seq(treadle.WriteVcdAnnotation,
+                       firrtl.options.TargetDirAnnotation(waveformDirName))
+    chisel3.tester.RawTester.test(dutGen, simAnnos)(testFn)
+    
+    // grab VCD and convert to wavedrom format
+    val rawFirrtl = getFirrtl(dutGen)
+    val circuitDecLine = rawFirrtl.split('\n')(1).split(' ')
+    assert(circuitDecLine.head == "circuit")
+    val circuitName = circuitDecLine(1)
+    val vcdRaw = firrtl.FileUtils.getText(s"$waveformDirName/$circuitName.vcd")
+    val waveJSON = vcdToWaveJSON(vcdRaw)
+
+    // render result
+    html(s"""
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wavedrom/3.0.1/skins/default.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wavedrom/3.0.1/wavedrom.min.js" type="text/javascript"></script>
+    <script type="WaveDrom">
+        $waveJSON
+    </script>""")
+    Javascript("""WaveDrom.ProcessAll();""")
+}
