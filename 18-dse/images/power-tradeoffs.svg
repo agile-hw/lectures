@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="373 430.9375 635.9 236.0625" width="635.9" height="236.0625">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.21.2\n2023-03-03 17:49:41 +0000</metadata>
+  <g id="race_to_halt" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>race to halt</title>
+    <g id="race_to_halt_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_10">
+        <line x1="650" y1="463" x2="650" y2="605" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Line_2">
+        <line x1="401" y1="605" x2="662.1" y2="605" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_3">
+        <line x1="401" y1="605" x2="401" y2="478.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(378 558.082) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" fill="black" x="0" y="15">Power</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(512.5 611)" fill="black">
+          <tspan font-family="Menlo" font-size="16" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 729 641.5 L 739 641.5 C 741.7614 641.5 744 643.7386 744 646.5 L 744 656.5 C 744 659.2614 741.7614 661.5 739 661.5 L 729 661.5 C 726.2386 661.5 724 659.2614 724 656.5 L 724 646.5 C 724 643.7386 726.2386 641.5 729 641.5 Z" fill="#0044b4"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 408 576 L 646 576 C 648.7614 576 651 573.7614 651 571 L 651 554 C 651 551.2386 648.7614 549 646 549 L 408 549 C 405.2386 549 403 551.2386 403 554 L 403 571 C 403 573.7614 405.2386 576 408 576 Z" fill="#0044b4"/>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(501.5 544) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-style="italic" font-size="16" fill="black" x="0" y="15">Deadline</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(781.9785 435.9375)" fill="black">
+          <tspan font-family="Menlo" font-weight="bold" font-size="18" fill="black" x="0" y="17">Race to Halt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 408 576 L 646 576 C 648.7614 576 651 578.2386 651 581 L 651 598 C 651 600.7614 648.7614 603 646 603 L 408 603 C 405.2386 603 403 600.7614 403 598 L 403 581 C 403 578.2386 405.2386 576 408 576 Z" fill="#5ec962"/>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(515.95703 641)" fill="#5ec962">
+          <tspan font-family="Menlo" font-size="18" fill="#5ec962" x="0" y="17">Static Power</tspan>
+        </text>
+      </g>
+      <g id="Line_24">
+        <line x1="525.5" y1="463" x2="525.5" y2="605" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(749 641)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17">Dynamic Power</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <line x1="971" y1="463" x2="971" y2="605" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Line_33">
+        <line x1="722" y1="605" x2="983.1" y2="605" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Line_32">
+        <line x1="722" y1="605" x2="722" y2="478.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(699 558.082) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-size="16" fill="black" x="0" y="15">Power</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(833.5 611)" fill="black">
+          <tspan font-family="Menlo" font-size="16" fill="black" x="0" y="15">Time</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M 729 576 L 777 576 C 779.7614 576 782 573.7614 782 571 L 782 498 C 782 495.2386 779.7614 493 777 493 L 729 493 C 726.2386 493 724 495.2386 724 498 L 724 571 C 724 573.7614 726.2386 576 729 576 Z" fill="#0044b4"/>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(823.5 545.0625) rotate(-90)" fill="black">
+          <tspan font-family="Menlo" font-style="italic" font-size="16" fill="black" x="0" y="15">Deadline</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 729 576 L 777 576 C 779.7614 576 782 578.2386 782 581 L 782 598 C 782 600.7614 779.7614 603 777 603 L 729 603 C 726.2386 603 724 600.7614 724 598 L 724 581 C 724 578.2386 726.2386 576 729 576 Z" fill="#5ec962"/>
+      </g>
+      <g id="Line_26">
+        <line x1="846.5" y1="463" x2="846.5" y2="605" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="12.0,12.0" stroke-width="3"/>
+      </g>
+      <g id="Graphic_36">
+        <path d="M 853.6133 576 L 901.6133 576 C 904.3747 576 906.6133 573.7614 906.6133 571 L 906.6133 498 C 906.6133 495.2386 904.3747 493 901.6133 493 L 853.6133 493 C 850.8519 493 848.6133 495.2386 848.6133 498 L 848.6133 571 C 848.6133 573.7614 850.8519 576 853.6133 576 Z" fill="#0044b4"/>
+      </g>
+      <g id="Graphic_35">
+        <path d="M 853.6133 576 L 901.6133 576 C 904.3747 576 906.6133 578.2386 906.6133 581 L 906.6133 598 C 906.6133 600.7614 904.3747 603 901.6133 603 L 853.6133 603 C 850.8519 603 848.6133 600.7614 848.6133 598 L 848.6133 581 C 848.6133 578.2386 850.8519 576 853.6133 576 Z" fill="#5ec962"/>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(447.38623 435.9375)" fill="black">
+          <tspan font-family="Menlo" font-weight="bold" font-size="18" fill="black" x="0" y="17">Crawl to Deadline</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <path d="M 495.95703 641.5 L 505.95703 641.5 C 508.71845 641.5 510.95703 643.7386 510.95703 646.5 L 510.95703 656.5 C 510.95703 659.2614 508.71845 661.5 505.95703 661.5 L 495.95703 661.5 C 493.1956 661.5 490.95703 659.2614 490.95703 656.5 L 490.95703 646.5 C 490.95703 643.7386 493.1956 641.5 495.95703 641.5 Z" fill="#5ec962"/>
+      </g>
+    </g>
+  </g>
+</svg>
