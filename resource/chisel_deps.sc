@@ -142,7 +142,7 @@ def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
         val changes = changesRaw.tail
     
         def splitDec(decStr: String) = {
-            val tokens = decStr.strip.split(' ')
+            val tokens = decStr.trim.split(' ')
             val width = tokens(2).toInt
             assert(width <= 3)
             val label = tokens(3)
