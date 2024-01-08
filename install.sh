@@ -1,4 +1,5 @@
-python3 -m pip install virtualenv
+# Insist on old Jupyter to splitcell support
+python3 -m pip install virtualenv==3.6.6
 python3 -m virtualenv chisel_nb_env
 source chisel_nb_env/bin/activate
 pip3 install jupyterlab
@@ -6,6 +7,12 @@ pip3 install jupyter_contrib_nbextensions
 pip3 install jupyter_nbextensions_configurator
 pip3 install RISE
 jupyter nbextension enable splitcell/splitcell
+
+# If the extensions, in particular splitcell aren't fully working, consider:
+# jupyter nbextension install jupyter_contrib_nbextensions --py --sys-prefix
+# jupyter nbextension install jupyter_nbextensions_configurator --py --sys-prefix
+# jupyter nbextension enable splitcell/splitcell
+
 curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier && chmod +x coursier
 SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.14
 ./coursier bootstrap -r jitpack \
@@ -14,6 +21,7 @@ SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.14
     --sources --default=true \
     -o almond
 ./almond --install
+# If you have multiple Jupyter's you can use --jupyter-path to guide it
 rm almond
 rm coursier
 
