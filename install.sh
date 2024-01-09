@@ -1,8 +1,8 @@
-# Insist on old Jupyter to splitcell support
-python3 -m pip install virtualenv==3.6.6
+python3 -m pip install virtualenv
 python3 -m virtualenv chisel_nb_env
 source chisel_nb_env/bin/activate
-pip3 install jupyterlab
+# Insist on old Jupyter to splitcell support
+pip3 install jupyterlab==3.6.6
 pip3 install jupyter_contrib_nbextensions
 pip3 install jupyter_nbextensions_configurator
 pip3 install RISE
