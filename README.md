@@ -4,7 +4,7 @@ There are the released lectures from a course at UC Santa Cruz ([CSE 228A](https
 
 You can run the notebooks without installing anything by using Binder: [click here](https://mybinder.org/v2/gh/agile-hw/lectures/HEAD?urlpath=tree)
 
-You can view [lecture videos](https://youtube.com/playlist?list=PLfrN7RIcMe6izfv8NXhpKFmbb7pVFra5j) of the most recent offering ([Winter 2023](https://classes.soe.ucsc.edu/cse228a/Winter24/))
+You can view [lecture videos](https://www.youtube.com/playlist?list=PLfrN7RIcMe6g2LBRJLTHTdhyj5s8ag0Rg) of the most recent offering ([Winter 2024](https://classes.soe.ucsc.edu/cse228a/Winter24/))
 
 To get the best layout, we use splitcell and RISE. To set this up locally, consult `install.sh`. You can also set this up with docker with the included Dockerfile.
 
