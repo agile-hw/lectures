@@ -2,12 +2,12 @@ interp.repositories() ::: List(
   coursierapi.MavenRepository.of("https://oss.sonatype.org/content/repositories/snapshots")
 )
 
-import $ivy.`edu.berkeley.cs::chisel3:3.5.6`
-import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.5.6`
-import $ivy.`edu.berkeley.cs::chiseltest:0.5.6`
-import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.5.6`
+import $ivy.`edu.berkeley.cs::chisel3:3.6.0`
+import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.6.0`
+import $ivy.`edu.berkeley.cs::chiseltest:0.6.2`
+import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.6.0`
 
-import $ivy.`org.scalatest::scalatest:3.2.10`
+import $ivy.`org.scalatest::scalatest:3.2.15`
 
 def removeAllComments(verStr: String, delim: String = " // @"): String = {
     val lines = verStr.split('\n')
@@ -140,7 +140,7 @@ def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
         val (initRaw, changesRaw) = values.splitAt(values.indexWhere(_.contains("end")))
         val init = initRaw.tail
         val changes = changesRaw.tail
-    
+
         def splitDec(decStr: String) = {
             val tokens = decStr.trim.split(' ')
             val width = tokens(2).toInt
@@ -150,14 +150,14 @@ def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
             (label, name)
         }
         val labelsToNames = decs.map(splitDec).toMap
-    
+
         def splitUpdate(updateStr: String) = {
             val value = updateStr.head.toString
             val label = updateStr.tail
             (label, value)
         }
         val labelsToValues = init.map(splitUpdate).toMap
-    
+
         def grabCycleUpdates(cycleToProcess: Int,
                          wavesSoFar: Map[String,String],
                          changes: Seq[String]): Map[String,String] = {
@@ -184,7 +184,7 @@ def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
             val datas = multibits.map(c => s"\"$c\"").mkString(",")
             (waveRetouched, datas)
         }
-        
+
         def signalOrder(sigName: String): String = sigName match {
             case "clock" => "0"
             case "reset" => "1"
@@ -210,8 +210,8 @@ def simForWaveform[T <: chisel3.Module](dutGen: => T)(testFn: T => Unit) = {
     firrtl.FileUtils.deleteDirectoryHierarchy(waveformDirName)
     val simAnnos = Seq(treadle.WriteVcdAnnotation,
                        firrtl.options.TargetDirAnnotation(waveformDirName))
-    chisel3.tester.RawTester.test(dutGen, simAnnos)(testFn)
-    
+    chiseltest.RawTester.test(dutGen, simAnnos)(testFn)
+
     // grab VCD and convert to wavedrom format
     val rawFirrtl = getFirrtl(dutGen)
     val circuitDecLine = rawFirrtl.split('\n')(1).split(' ')
