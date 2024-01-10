@@ -22,7 +22,7 @@ RUN pip3 install RISE
 RUN jupyter nbextension enable splitcell/splitcell
 
 ENV SCALA_VERSION=2.13.10
-ENV ALMOND_VERSION=0.13.2
+ENV ALMOND_VERSION=0.13.14
 
 ENV COURSIER_CACHE=/coursier_cache
 
