@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="1919.0507 2435.6014 202.9763 116.4574" width="202.9763" height="116.4574">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.22.4\n2024-01-12 20:36:22 +0000</metadata>
+  <g id="contrast_conditionals" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>contrast conditionals</title>
+    <g id="contrast_conditionals_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_78">
+        <path d="M 2026.483 2518.2954 L 2009.7441 2486.9874 L 2121.027 2486.9874 L 2104.288 2518.2954 L 2026.483 2518.2954 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_76">
+        <text transform="translate(2087 2488.3643)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" fill="#666" x="0" y="17">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <text transform="translate(2034 2488.3643)" fill="#666">
+          <tspan font-family="Menlo" font-size="18" fill="#666" x="0" y="17">0</tspan>
+        </text>
+      </g>
+      <g id="Line_74">
+        <line x1="1988.5" y1="2505.5" x2="2006.6506" y2="2505.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_72">
+        <line x1="2038.9185" y1="2459.824" x2="2038.9185" y2="2474.0874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Graphic_71">
+        <text transform="translate(2076.163 2440.6014)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17">in1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_70">
+        <text transform="translate(2023.163 2440.6014)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17">in0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <text transform="translate(1924.0507 2494.0507)" fill="#0044b4">
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17">select</tspan>
+        </text>
+      </g>
+      <g id="Line_79">
+        <line x1="2091.9185" y1="2459.824" x2="2091.9185" y2="2474.0874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+      <g id="Line_80">
+        <line x1="2064.8856" y1="2518.2954" x2="2064.8856" y2="2532.5588" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
