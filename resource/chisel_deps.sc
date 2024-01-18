@@ -23,7 +23,11 @@ def getVerilog(dut: => chisel3.RawModule): String = {
   val arguments = Array("--emission-options",
                         "disableMemRandomization,disableRegisterRandomization",
                         "--info-mode", "ignore")
-  removeAllComments((new chisel3.stage.ChiselStage).emitVerilog(dut, arguments))
+	try {
+		removeAllComments((new chisel3.stage.ChiselStage).emitVerilog(dut, arguments))
+	} catch {
+		case e: Exception => s"An exception occurred: ${e.getMessage}"
+	}
 }
 
 // Convenience function to invoke Chisel and grab emitted FIRRTL.
@@ -31,7 +35,11 @@ def getFirrtl(dut: => chisel3.RawModule): String = {
   val arguments = Array("--emission-options",
                         "disableMemRandomization,disableRegisterRandomization",
                         "--info-mode", "ignore")
-  removeAllComments((new chisel3.stage.ChiselStage).emitFirrtl(dut, arguments), " @")
+	try {
+		removeAllComments((new chisel3.stage.ChiselStage).emitFirrtl(dut, arguments), " @")
+	} catch {
+		case e: Exception => s"An exception occurred: ${e.getMessage}"
+	}
 }
 
 // Pretty prints the given firrtl AST
