@@ -30,6 +30,9 @@ def getVerilog(dut: => chisel3.RawModule): String = {
 	}
 }
 
+// Convenience function since users typically do println(getVerilog()) anyways
+def printVerilog(dut: => chisel3.RawModule): Unit = println(getVerilog(dut))
+
 // Convenience function to invoke Chisel and grab emitted FIRRTL.
 def getFirrtl(dut: => chisel3.RawModule): String = {
   val arguments = Array("--emission-options",
