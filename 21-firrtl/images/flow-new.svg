@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="604.5 1520.5 861.5 93" width="861.5" height="93">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#284491">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.22.5\n2024-03-08 19:24:21 +0000</metadata>
+  <g id="flows" fill="none" stroke-opacity="1" fill-opacity="1" stroke="none" stroke-dasharray="none">
+    <title>flows</title>
+    <g id="flows_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_71">
+        <line x1="706" y1="1567" x2="737.1" y2="1567" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Graphic_70">
+        <path d="M 770.5 1540.75 L 910.5 1540.75 C 916.0228 1540.75 920.5 1545.2272 920.5 1550.75 L 920.5 1583.25 C 920.5 1588.7728 916.0228 1593.25 910.5 1593.25 L 770.5 1593.25 C 764.97715 1593.25 760.5 1588.7728 760.5 1583.25 L 760.5 1550.75 C 760.5 1545.2272 764.97715 1540.75 770.5 1540.75 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(765.5 1557.5)" fill="black">
+          <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="2.7539062" y="15">Chisel Frontend</tspan>
+        </text>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 1139.5 1540.75 L 1300 1540.75 C 1305.5228 1540.75 1310 1545.2272 1310 1550.75 L 1310 1583.25 C 1310 1588.7728 1305.5228 1593.25 1300 1593.25 L 1139.5 1593.25 C 1133.9772 1593.25 1129.5 1588.7728 1129.5 1583.25 L 1129.5 1550.75 C 1129.5 1545.2272 1133.9772 1540.75 1139.5 1540.75 Z" stroke="#284491" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(1134.5 1548)" fill="black">
+          <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="13.003906" y="15">Verilog Backend</tspan>
+          <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="13.003906" y="34">firtool (circt)</tspan>
+        </text>
+      </g>
+      <g id="Group_66">
+        <title>Note</title>
+        <g id="Graphic_68">
+          <path d="M 606 1522 L 694.4615 1522 L 706 1540 L 706 1612 L 606 1612 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(612 1538.5)" fill="black">
+            <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="15.101562" y="15">Chisel </tspan>
+            <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="15.101562" y="34">Design</tspan>
+            <tspan font-family="Menlo" font-size="16" fill="black" x="5.46875" y="53">(.scala)</tspan>
+          </text>
+        </g>
+        <g id="Line_67">
+          <path d="M 694.4615 1522 L 694.4615 1540 L 706 1540 L 706 1540" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_63">
+        <title>Note</title>
+        <g id="Graphic_65">
+          <path d="M 975 1522 L 1063.4615 1522 L 1075 1540 L 1075 1612 L 975 1612 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(981 1548)" fill="black">
+            <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="10.285156" y="15">Circuit</tspan>
+            <tspan font-family="Menlo" font-size="16" fill="black" x="15.101562" y="34">(.fir)</tspan>
+          </text>
+        </g>
+        <g id="Line_64">
+          <path d="M 1063.4615 1522 L 1063.4615 1540 L 1075 1540 L 1075 1540" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_62">
+        <line x1="922" y1="1567" x2="951.6" y2="1567" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Line_61">
+        <line x1="1076.5" y1="1567" x2="1106.1" y2="1567" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Group_58">
+        <title>Note</title>
+        <g id="Graphic_60">
+          <path d="M 1364.5 1522 L 1452.9615 1522 L 1464.5 1540 L 1464.5 1612 L 1364.5 1612 Z" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <text transform="translate(1370.5 1548)" fill="black">
+            <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="black" x="10.285156" y="15">Verilog</tspan>
+            <tspan font-family="Menlo" font-style="italic" font-size="16" fill="black" x="24.734375" y="34">(.v)</tspan>
+          </text>
+        </g>
+        <g id="Line_59">
+          <path d="M 1452.9615 1522 L 1452.9615 1540 L 1464.5 1540 L 1464.5 1540" stroke="#4f8f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Line_57">
+        <line x1="1311.5" y1="1567" x2="1341.1" y2="1567" marker-end="url(#FilledArrow_Marker)" stroke="#284491" stroke-linecap="round" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>
