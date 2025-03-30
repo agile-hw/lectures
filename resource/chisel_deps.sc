@@ -1,13 +1,19 @@
+// Don't forget to call (below) before importing this to silence deprecations
+// interp.configureCompiler(_.settings.processArguments(List("-Wconf:cat=deprecation:s"), true))
+
 interp.repositories() ::: List(
   coursierapi.MavenRepository.of("https://oss.sonatype.org/content/repositories/snapshots")
 )
 
-import $ivy.`edu.berkeley.cs::chisel3:3.6.0`
-import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.6.0`
+import $ivy.`edu.berkeley.cs::chisel3:3.6.1`
+import $plugin.$ivy.`edu.berkeley.cs:::chisel3-plugin:3.6.1`
 import $ivy.`edu.berkeley.cs::chiseltest:0.6.2`
 import $ivy.`edu.berkeley.cs::firrtl-diagrammer:1.6.0`
 
 import $ivy.`org.scalatest::scalatest:3.2.15`
+
+// now needed after scala update to 2.13.14?
+import scala.language.reflectiveCalls
 
 def removeAllComments(verStr: String, delim: String = " // @"): String = {
     val lines = verStr.split('\n')
