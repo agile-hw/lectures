@@ -1,18 +1,20 @@
-python3 -m pip install virtualenv
-python3 -m virtualenv chisel_nb_env
+# install virtualenv
+apt install python3-virtualenv
+
+# make virtualenv for lecture environment
+python3 -m venv chisel_nb_env
 source chisel_nb_env/bin/activate
-# Insist on old Jupyter to splitcell support
+# Insist on old Jupyter to keep support for splitcell
 pip3 install jupyterlab==3.6.6
-pip3 install jupyter_contrib_nbextensions
-pip3 install jupyter_nbextensions_configurator
 pip3 install RISE
+pip3 install jupyter_contrib_nbextensions
 jupyter nbextension enable splitcell/splitcell
 
 # If the extensions, in particular splitcell aren't fully working, consider:
 # jupyter nbextension install jupyter_contrib_nbextensions --py --sys-prefix
-# jupyter nbextension install jupyter_nbextensions_configurator --py --sys-prefix
 # jupyter nbextension enable splitcell/splitcell
 
+# install almond (Scala in Jupyter)
 curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier && chmod +x coursier
 SCALA_VERSION=2.13.14 ALMOND_VERSION=0.14.0-RC15
 ./coursier bootstrap -r jitpack \
@@ -20,13 +22,13 @@ SCALA_VERSION=2.13.14 ALMOND_VERSION=0.14.0-RC15
     sh.almond:scala-kernel_$SCALA_VERSION:$ALMOND_VERSION \
     --sources --default=true \
     -o almond
-./almond --install
 # If you have multiple Jupyter's you can use --jupyter-path to guide it
-rm almond
-rm coursier
+./almond --install
+# Once installed, no longer need installers
+rm almond coursier
 
 # If you get an odd permissions issue from Jupyter, you can disable auth.
-jupyter notebook --NotebookApp.token=''
+# jupyter notebook --NotebookApp.token=''
 
 echo '\n\n\nTo enter virtualenv type: source chisel_nb_env/bin/activate'
 
