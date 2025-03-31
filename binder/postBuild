@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SCALA_VERSION=2.13.14 ALMOND_VERSION=0.14.1-RC15
+SCALA_VERSION=2.13.14 ALMOND_VERSION=0.14.0-RC15
 
 # Install coursier
 curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier
