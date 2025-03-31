@@ -14,7 +14,7 @@ jupyter nbextension enable splitcell/splitcell
 # jupyter nbextension enable splitcell/splitcell
 
 curl -fLo coursier https://github.com/coursier/launchers/raw/master/coursier && chmod +x coursier
-SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.14
+SCALA_VERSION=2.13.14 ALMOND_VERSION=0.14.1-RC15
 ./coursier bootstrap -r jitpack \
     -i user -I user:sh.almond:scala-kernel-api_$SCALA_VERSION:$ALMOND_VERSION \
     sh.almond:scala-kernel_$SCALA_VERSION:$ALMOND_VERSION \
@@ -24,6 +24,9 @@ SCALA_VERSION=2.13.10 ALMOND_VERSION=0.13.14
 # If you have multiple Jupyter's you can use --jupyter-path to guide it
 rm almond
 rm coursier
+
+# If you get an odd permissions issue from Jupyter, you can disable auth.
+jupyter notebook --NotebookApp.token=''
 
 echo '\n\n\nTo enter virtualenv type: source chisel_nb_env/bin/activate'
 
