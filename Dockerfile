@@ -15,14 +15,13 @@ RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 RUN python3 get-pip.py
 RUN pip3 install notebook
 
-RUN pip3 install jupyterlab
-RUN pip3 install jupyter_contrib_nbextensions
-RUN pip3 install jupyter_nbextensions_configurator
+RUN pip3 install jupyterlab==3.6.6
 RUN pip3 install RISE
+RUN pip3 install jupyter_contrib_nbextensions
 RUN jupyter nbextension enable splitcell/splitcell
 
 ENV SCALA_VERSION=2.13.14
-ENV ALMOND_VERSION=0.14.1-RC15
+ENV ALMOND_VERSION=0.14.0-RC15
 
 ENV COURSIER_CACHE=/coursier_cache
 
@@ -33,7 +32,6 @@ ENV JUPYTER_CONFIG_DIR=/jupyter/config
 ENV JUPITER_DATA_DIR=/jupyter/data
 
 RUN mkdir -p $JUPYTER_CONFIG_DIR/custom
-RUN cp custom.js $JUPYTER_CONFIG_DIR/custom/
 
 RUN mkdir /coursier_cache
 
@@ -49,10 +47,6 @@ RUN \
         -o almond && \
     ./almond --install --global && \
     \rm -rf almond couriser /root/.cache/coursier 
-
-# copy the Scala requirements and kernel into the image 
-COPY --from=intermediate-builder /coursier_cache/ /coursier_cache/
-COPY --from=intermediate-builder /usr/local/share/jupyter/kernels/scala/ /usr/local/share/jupyter/kernels/scala/
 
 WORKDIR /
 
