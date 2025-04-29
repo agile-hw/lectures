@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="3666.4 4291 581.3854 336" width="581.3854" height="336">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="3666.4 4291 581.3854 336" width="581.3854" height="336">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
       <g>
@@ -17,19 +17,9 @@
         <line x1="0" y1="2.4" x2="0" y2="-2.4" fill="none" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Menlo" font-size="18" panose-1="2 11 6 9 3 8 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.0039" ascent="928.2227" descent="-235.83984" font-weight="400">
-      <font-face-src>
-        <font-face-name name="Menlo-Regular"/>
-      </font-face-src>
-    </font-face>
-    <font-face font-family="Menlo" font-size="16" panose-1="2 11 7 9 3 6 4 2 2 4" units-per-em="1000" underline-position="-63.47656" underline-thickness="43.94531" slope="0" x-height="546.875" cap-height="729.9805" ascent="928.2227" descent="-235.83984" font-weight="700">
-      <font-face-src>
-        <font-face-name name="Menlo-Bold"/>
-      </font-face-src>
-    </font-face>
   </defs>
-  <metadata> Produced by OmniGraffle 7.18.5\n2021-04-26 20:13:17 +0000</metadata>
-  <g id="shiftreg_queue" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" stroke="none">
+  <metadata> Produced by OmniGraffle 7.24.4\n2025-04-29 02:29:33 +0000</metadata>
+  <g id="shiftreg_queue" stroke="none" fill-opacity="1" fill="none" stroke-dasharray="none" stroke-opacity="1">
     <title>shiftreg queue</title>
     <g id="shiftreg_queue_Layer_1">
       <title>Layer 1</title>
@@ -70,12 +60,12 @@
         <line x1="4046.435" y1="4513.8333" x2="4046.235" y2="4524.8324" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
       <g id="Graphic_8">
-        <circle cx="4046" cy="4487.5" r="3.00000479370559" fill="#999"/>
-        <circle cx="4046" cy="4487.5" r="3.00000479370559" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle cx="4046" cy="4487.5" r="3.00000479370558" fill="#999"/>
+        <circle cx="4046" cy="4487.5" r="3.00000479370558" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_7">
-        <circle cx="4046" cy="4503" r="3.00000479370559" fill="#999"/>
-        <circle cx="4046" cy="4503" r="3.00000479370559" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle cx="4046" cy="4503" r="3.00000479370546" fill="#999"/>
+        <circle cx="4046" cy="4503" r="3.00000479370546" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_6">
         <line x1="4046" y1="4577.98" x2="4046" y2="4588.166" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -85,17 +75,17 @@
       </g>
       <g id="Graphic_4">
         <text transform="translate(4134.4163 4441)" fill="#5ec962">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#5ec962" x="0" y="17">numEntries</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#5ec962" x="0" y="17" xml:space="preserve">numEntries</tspan>
         </text>
       </g>
       <g id="Graphic_3">
         <text transform="translate(3986.397 4296)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.enq.bits</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">io.enq.bits</tspan>
         </text>
       </g>
       <g id="Graphic_2">
         <text transform="translate(3986.397 4601)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">io.deq.bits</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">io.deq.bits</tspan>
         </text>
       </g>
       <g id="Group_36">
@@ -107,12 +97,12 @@
         </g>
       </g>
       <g id="Graphic_23">
-        <circle cx="3899.5" cy="4487.625" r="3.00000479370535" fill="#999"/>
-        <circle cx="3899.5" cy="4487.625" r="3.00000479370535" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle cx="3899.5" cy="4487.625" r="3.00000479370546" fill="#999"/>
+        <circle cx="3899.5" cy="4487.625" r="3.00000479370546" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_22">
-        <circle cx="3899.5" cy="4503.125" r="3.00000479370535" fill="#999"/>
-        <circle cx="3899.5" cy="4503.125" r="3.00000479370535" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <circle cx="3899.5" cy="4503.125" r="3.00000479370546" fill="#999"/>
+        <circle cx="3899.5" cy="4503.125" r="3.00000479370546" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Group_37">
         <g id="Graphic_39">
@@ -145,7 +135,7 @@
       <g id="Graphic_47">
         <path d="M 3821.3666 4481.8384 C 3814.0938 4466.625 3816.994 4338.5535 3828.596 4360.406 C 3829.6723 4317.8083 3843.1638 4324.7224 3843.0756 4360.406 C 3851.535 4314.766 3862.346 4405.7716 3855.0946 4451.4116 C 3863.796 4473.539 3854.985 4592.759 3847.8438 4572.844 C 3847.2722 4606.038 3834.506 4617.654 3833.3857 4572.844 C 3826.157 4620.699 3811.0837 4547.119 3821.3666 4481.8384 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
         <text transform="translate(3827.25 4457.125)" fill="#a5a5a5">
-          <tspan font-family="Menlo" font-size="16" font-weight="700" fill="#a5a5a5" x="5.933594" y="15">?</tspan>
+          <tspan font-family="Menlo" font-weight="bold" font-size="16" fill="#a5a5a5" x="5.933594" y="15" xml:space="preserve">?</tspan>
         </text>
       </g>
       <g id="Line_48">
@@ -153,7 +143,7 @@
       </g>
       <g id="Graphic_53">
         <text transform="translate(3691.734 4345.5)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">enq.valid</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">enq.valid</tspan>
         </text>
       </g>
       <g id="Line_52">
@@ -164,12 +154,12 @@
       </g>
       <g id="Graphic_50">
         <text transform="translate(3691.734 4371.25)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">enq.ready</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">enq.ready</tspan>
         </text>
       </g>
       <g id="Graphic_57">
         <text transform="translate(3709.734 4528.98)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">deq.valid</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">deq.valid</tspan>
         </text>
       </g>
       <g id="Line_56">
@@ -180,7 +170,17 @@
       </g>
       <g id="Graphic_54">
         <text transform="translate(3709.734 4551.98)" fill="#0044b4">
-          <tspan font-family="Menlo" font-size="18" font-weight="400" fill="#0044b4" x="0" y="17">deq.ready</tspan>
+          <tspan font-family="Menlo" font-size="18" fill="#0044b4" x="0" y="17" xml:space="preserve">deq.ready</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <text transform="translate(4134.4163 4555.105)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="18" fill="#a5a5a5" x="0" y="17" xml:space="preserve">head</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <text transform="translate(4133.4163 4345.5)" fill="#a5a5a5">
+          <tspan font-family="Menlo" font-size="18" fill="#a5a5a5" x="0" y="17" xml:space="preserve">tail</tspan>
         </text>
       </g>
     </g>
