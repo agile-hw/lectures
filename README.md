@@ -1,10 +1,10 @@
 # Agile Hardware Design Course Lectures
 
-There are the released lectures from a course at UC Santa Cruz ([CSE 228A](https://classes.soe.ucsc.edu/cse228a/Winter24/)). They are Jupyter notebooks, so one can execute code and see the result directly in the slides.
+There are the released lectures from a course at UC Santa Cruz ([CSE 228A](https://classes.soe.ucsc.edu/cse228a/Spring25/)). They are Jupyter notebooks, so one can execute code and see the result directly in the slides.
 
 You can run the notebooks without installing anything by using Binder: [click here](https://mybinder.org/v2/gh/agile-hw/lectures/HEAD?urlpath=tree)
 
-You can view [lecture videos](https://www.youtube.com/playlist?list=PLfrN7RIcMe6g2LBRJLTHTdhyj5s8ag0Rg) of the most recent offering ([Winter 2024](https://classes.soe.ucsc.edu/cse228a/Winter24/))
+You can view [lecture videos](https://www.youtube.com/playlist?list=PLfrN7RIcMe6gxHh5EwK0hktA5qWQQuSRQ) of the most recent offering ([Spring 2025](https://classes.soe.ucsc.edu/cse228a/Spring25/))
 
 To get the best layout, we use splitcell and RISE. To set this up locally, consult `install.sh`. You can also set this up with docker with the included Dockerfile.
 
